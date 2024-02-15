@@ -2,7 +2,7 @@
 
 ```
 
-![Reed Group](Images/Cover.webp)
+![Hadjimichael Research Group](Images/Cover.webp)
 
 
 This platform aims to support newcomers and collaborators in grasping the research methodologies and tools utilized by the Hajimichael Research Group. 
