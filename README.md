@@ -1,6 +1,6 @@
 # HadjimichaelResearchGroup.github.io
 Repository for the Hadjimichael Research Group
 
-Hello world! 
+### Contributing to the lab manual
+For instructions for contributing to the lab manual, see [this section](https://HadjimichaelResearchGroup.github.io/Contributing/Instructions.html).
 
-~ *more to come soon* ~ 
