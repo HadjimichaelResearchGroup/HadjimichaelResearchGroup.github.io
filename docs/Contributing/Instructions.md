@@ -10,9 +10,9 @@ generator built around Markdown and Jupyter Notebooks.
 
 ## To create or edit a Markdown-based page
 - Most of the pages in this manual (including this one) are built using Markdown (.md file endings). Markdown provides a simple and powerful way to create organized "fancy" rendered documents using only a text editor. See [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and many other resources on the web.
-- An example Markdown-based page for this site can be found at ``Documents/Contributing/mdExample.md``.
+- An example Markdown-based page for this site can be found at ``docs/Contributing/mdExample.md``.
 - To edit an existing Markdown page in the lab manual, simply edit the .md file in your favorite text editor or Python IDE. If you embed any images in the .md file, add the images to the same directory.
-- To create a new Markdown-based page in the lab manual, just create and fill in a new .md file. This file should be placed at the appropriate location within the nested directory structure. For example, a new page on a software called MySoft could be created as ``Documents/Software/MySoft.md``.
+- To create a new Markdown-based page in the lab manual, just create and fill in a new .md file. This file should be placed at the appropriate location within the nested directory structure. For example, a new page on a software called MySoft could be created as ``docs/Software/MySoft.md``.
 
 
 ## Committing changes to the remote repository
