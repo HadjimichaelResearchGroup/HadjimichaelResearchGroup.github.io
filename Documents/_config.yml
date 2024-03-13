@@ -26,7 +26,7 @@ parse:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io # Online location of your book
-  path_to_book: Documents  # Optional path to your book, relative to the repository root
+  path_to_book: ./Documents  # Optional path to your book, relative to the repository root
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
