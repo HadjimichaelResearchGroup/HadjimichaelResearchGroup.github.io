@@ -4,7 +4,7 @@
 root: intro.md
 format: jb-book
 parts:
-chapters:
+- chapters:
   - file: GraduateStudentResources/Contributing.md
     sections:
     - file: GraduateStudentResources/Courses.md
