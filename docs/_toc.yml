@@ -1,23 +1,22 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-root: intro
+root: intro.md
 format: jb-book
-defaults:
-  numbered: true
 parts:
 - chapters:
-  - file: GraduateStudentResources/GraduateStudentResources.md
+  - file: GraduateStudentResources
     sections:
     - file: GraduateStudentResources/Courses.md
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
     - file: GraduateStudentResources/Reimbursemen_expensing.md
-    sections:
-  - file: Training/Training.md
+    
+   - file: Training 
     sections:
     - file: Training/Training.md
-  - file: Contributing/Contributing.md
+   
+  - file: Contributing
     sections:
     - file: Contributing/Instructions.md
     - file: Contributing/mdExample.md
