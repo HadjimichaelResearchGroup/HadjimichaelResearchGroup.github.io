@@ -16,6 +16,15 @@ on:
     - cron: '0 0 1 * *'
 
 jobs: 
+  deploy-book:
+    runs-on: ubuntu-latest
+    # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v3
+      
   rebuild-and-deploy-book:
     runs-on: ${{ matrix.os }}
     strategy:
