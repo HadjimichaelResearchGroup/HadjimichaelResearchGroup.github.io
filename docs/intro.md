@@ -1,7 +1,5 @@
 # Hadjimichael Research Group lab manual! 
 
-```
-
 ![Hadjimichael Research Group](Images/Cover.webp)
 
 
