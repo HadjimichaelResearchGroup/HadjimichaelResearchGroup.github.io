@@ -1,7 +1,7 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-root: intro.md
+root: intro
 format: jb-book
 parts:
 - chapters:
@@ -11,11 +11,9 @@ parts:
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
     - file: GraduateStudentResources/Reimbursemen_expensing.md
-    
    - file: Training 
     sections:
     - file: Training/Training.md
-   
   - file: Contributing
     sections:
     - file: Contributing/Instructions.md
