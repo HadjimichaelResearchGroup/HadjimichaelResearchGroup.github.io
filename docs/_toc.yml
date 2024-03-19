@@ -4,14 +4,14 @@
 root: intro
 format: jb-book
 parts:
-- chapters:
+chapters:
   - file: GraduateStudentResources
     sections:
     - file: GraduateStudentResources/Courses.md
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
     - file: GraduateStudentResources/Reimbursemen_expensing.md
-   - file: Training 
+  - file: Training 
     sections:
     - file: Training/Training.md
   - file: Contributing
