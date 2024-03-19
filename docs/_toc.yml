@@ -1,9 +1,10 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-format: jb-book
 root: intro
-numbered: true
+format: jb-book
+defaults:
+  numbered: true
 parts:
 - chapters:
   - file: GraduateStudentResources/GraduateStudentResources.md
