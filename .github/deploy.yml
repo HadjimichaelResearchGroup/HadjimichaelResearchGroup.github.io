@@ -72,25 +72,6 @@ jobs:
     # Build the example book
     - name: Build book
       run: jupyter-book build --all docs/
-
-    # Manually copy files
-    - name: copy files
-      uses: canastro/copy-file-action@master
-      with:
-        source: "docs/WaterProgramming/post_catalog.html"
-        target: "docs/_build/html/WaterProgramming/post_catalog.html"
-
-    # manually edit html to increase size of Water Programming Blog post table
-    - name: edit table html
-      run: bash .github/workflows/update_WaterProgramming_table_html.sh
-
-    # Copy images to build
-    - name: copy images
-      uses: canastro/copy-file-action@master
-      with:
-        source: docs/images/.
-        target: docs/_build/html/_images/
-        flags: '-r'
         
     # Deploy html to gh-pages
     - name: GitHub Pages action
