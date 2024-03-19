@@ -1,9 +1,14 @@
+#######################################################################################
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Hadjimichael group lab manual
 author: The Hadjimichael Research Group at PennState
+copyright: "2024"  # Copyright year to be placed in the footer
 logo: Images/Logo.png
+
+#######################################################################################
+# Execution settings
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
