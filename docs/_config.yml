@@ -1,0 +1,49 @@
+#######################################################################################
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Hadjimichael group lab manual
+author: The Hadjimichael Research Group at PennState
+copyright: "2024"  # Copyright year to be placed in the footer
+logo: Images/Logo.png
+
+#######################################################################################
+# Execution settings
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+only_build_toc_files: true
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+launch_buttons:
+  binderhub_url: ""
+#  notebook_interface: classic
+#  jupyterhub_url: "https://jupyter.mecanique.univ-lyon1.fr"
+#  binderhub_url: "https://github.com/mbuffat/INPROS"
+
+parse:
+  myst_enable_extensions:
+  - html_admonitions
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  allow_embed: true

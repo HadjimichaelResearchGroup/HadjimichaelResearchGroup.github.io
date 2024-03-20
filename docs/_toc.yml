@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro.md
+defaults:  # The defaults key will be applied to all chapters and sub-sections
+  titlesonly: True
+parts:
+  - chapters:
+  - file: GraduateStudentResources/Contributing.md
+    sections:
+    - file: GraduateStudentResources/Courses.md
+    - file: GraduateStudentResources/Housing.md
+    - file: GraduateStudentResources/Who_to_contact_for.md
+    - file: GraduateStudentResources/Reimbursemen_expensing.md
+  - file: Training/Training.md 
+  - file: Contributing/Contributing.md
+    sections:
+    - file: Contributing/Instructions.md
+    - file: Contributing/mdExample.md
