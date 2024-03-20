@@ -6,7 +6,6 @@ title: Hadjimichael group lab manual
 author: The Hadjimichael Research Group at PennState
 copyright: "2024"  # Copyright year to be placed in the footer
 logo: Images/Logo.png
-#theme: jekyll-theme-midnight
 
 #######################################################################################
 # Execution settings
@@ -14,7 +13,7 @@ logo: Images/Logo.png
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: auto
 
 # Define the name of the latex output file for PDF builds
 latex:
