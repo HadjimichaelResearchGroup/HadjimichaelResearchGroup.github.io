@@ -6,7 +6,7 @@ root: intro.md
 defaults:  # The defaults key will be applied to all chapters and sub-sections
   titlesonly: True
 parts:
-  chapters:
+  - chapters:
   - file: GraduateStudentResources/Contributing.md
     sections:
     - file: GraduateStudentResources/Courses.md
