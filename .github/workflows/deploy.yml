@@ -70,14 +70,13 @@ jobs:
       if: "contains(github.event.head_commit.message, '[ipynb]')"
 
     #Migrate to the new Table of content sctructure
-    #-name: Migration tool TOC
-    #  run: jupyter-book toc migrate docs/_toc.yml -o docs/_toc.yml
+    -name: Migration tool TOC
+      run: jupyter-book toc migrate docs/_toc.yml -o docs/_toc.yml
       
     # Build the example book
     - name: Build book
       run: jupyter-book build --all docs/
         
-
     # Deploy html to gh-pages
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.6.1
