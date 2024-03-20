@@ -1,8 +1,8 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-root: intro.md
 format: jb-book
+root: intro.md
 parts:
 - chapters:
   - file: GraduateStudentResources/Contributing.md
