@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro.md
+root: docs/intro.md
 defaults:  # The defaults key will be applied to all chapters and sub-sections
   titlesonly: True
 parts:
