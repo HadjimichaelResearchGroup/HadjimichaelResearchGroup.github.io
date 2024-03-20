@@ -15,6 +15,7 @@ logo: Images/Logo.png
 execute:
   execute_notebooks: force
 
+only_build_toc_files: true
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
@@ -24,6 +25,12 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+launch_buttons:
+  binderhub_url: ""
+#  notebook_interface: classic
+#  jupyterhub_url: "https://jupyter.mecanique.univ-lyon1.fr"
+#  binderhub_url: "https://github.com/mbuffat/INPROS"
+
 parse:
   myst_enable_extensions:
   - html_admonitions
@@ -32,6 +39,7 @@ parse:
 repository:
   url: https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
