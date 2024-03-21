@@ -5,12 +5,8 @@
 title: Hadjimichael group lab manual
 author: The Hadjimichael Research Group at PennState
 copyright: "2024"  # Copyright year to be placed in the footer
-<<<<<<< HEAD:_config.yml
 logo: Images/Logo.png
 #theme: jekyll-theme-midnight
-=======
-logo: Images/Logo.png
->>>>>>> ee9b2e3c4c8a31704cab787adbf5a185295baf33:docs/_config.yml
 
 #######################################################################################
 # Execution settings
