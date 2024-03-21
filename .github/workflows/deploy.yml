@@ -14,7 +14,7 @@ on:
     # https://crontab.guru/every-month
     # Run cron job every month
     - cron: '0 0 1 * *'
-
+permissions: write-all
 jobs:       
   rebuild-and-deploy-book:
     runs-on: ${{ matrix.os }}
