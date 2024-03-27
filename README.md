@@ -1,4 +1,4 @@
-# HadjimichaelResearchGroup.github.io
+## HadjimichaelResearchGroup.github.io
 Repository for the Hadjimichael Research Group
 <https://HadjimichaelResearchGroup.github.io/docs/intro.html>
 
