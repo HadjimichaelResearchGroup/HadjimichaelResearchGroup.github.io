@@ -1,4 +1,4 @@
-# Graduate Student Resources
+## Graduate Student Resources
 ![](Deike.jpg)
 
 ```{tableofcontents}
