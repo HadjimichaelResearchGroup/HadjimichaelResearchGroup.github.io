@@ -1,4 +1,4 @@
-# Markdown example
+## Markdown example
 This is an example page using just markdown
 
 ### Subsection 1
