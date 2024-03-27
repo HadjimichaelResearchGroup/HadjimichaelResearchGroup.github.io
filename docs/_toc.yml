@@ -1,18 +1,18 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+format: jb-book
 root: intro.md
-entries:
-- file: intro
-  entries:
-  - file: Contributing/Contributing
-    entries:
-    - file: Contributing/Instructions
-    - file: Contributing/mdExample
-  - file: GraduateStudentResources/Courses
-    entries:
-    - file: GraduateStudentResources/GraduateStudentResources
-    - file: GraduateStudentResources/Housing
-    - file: GraduateStudentResources/Reimbursemen_expensing
-    - file: GraduateStudentResources/Who_to_contact_for
+parts:
+- chapters:
+  - file: Contributing/Contributing.md
+    section:
+    - file: Contributing/Instructions.md
+    - file: Contributing/mdExample.md
+  - file: GraduateStudentResources/Courses.md
+    section:
+    - file: GraduateStudentResources/GraduateStudentResources.md
+    - file: GraduateStudentResources/Housing.md
+    - file: GraduateStudentResources/Reimbursemen_expensing.md
+    - file: GraduateStudentResources/Who_to_contact_for.md
   - file: Training/Training
