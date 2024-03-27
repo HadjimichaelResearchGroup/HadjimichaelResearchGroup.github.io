@@ -7,6 +7,7 @@ author: The Hadjimichael Research Group at PennState
 copyright: "2024"  # Copyright year to be placed in the footer
 logo: Images/Logo.png
 #theme: jekyll-theme-midnight
+markdown: GFM
 
 #######################################################################################
 # Execution settings
