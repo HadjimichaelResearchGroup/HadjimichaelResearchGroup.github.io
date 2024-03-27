@@ -1,3 +1,3 @@
-# Training
+## Training
 ```{tableofcontents}
 ```
