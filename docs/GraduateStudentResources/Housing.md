@@ -14,7 +14,7 @@ Tofttrees, in bright green on the map, is a good option. It is significantly che
 
 Some students live in Bellefonte because it's cheaper (though farther). A good option if you have a car and want to live in a quieter area.
 
-There are nice parks and outdoors spaces in every neighborhood. Consider checking out the [walnut spring park,](https://www.appoutdoors.com/blog/the-wilderness-of-walnut-springs-park/) [the arboretum,](https://arboretum.psu.edu) or golf course trails. See more [here](https://www.crpr.org/sites/g/files/vyhlif2986/f/uploads/parks_bikeways_map.pdf)   
+There are nice parks and outdoors spaces in every neighborhood. Consider checking out the [walnut spring park,](https://www.appoutdoors.com/blog/the-wilderness-of-walnut-springs-park/) [the arboretum,](https://arboretum.psu.edu) or golf course trails. See more [here.](https://www.crpr.org/sites/g/files/vyhlif2986/f/uploads/parks_bikeways_map.pdf)   
 ### Finding Housing
 Finding available housing on places like zillow, apartments.com, or just googling will come up with tons of results. You can sort by the criteria that match what you are looking for, and make selections based on what you see. Big downtown high rises will be more expensive, as will options close to campus. Further away (nothing is ever *that* far here) and independent rentals will be cheaper. Feel free to get in contact with current grad students to ask questions about your location, reasonable rent prices, or good rental companies. 
 You can also try to find a house/apartment along the bus routes especially if you don't have a car.
