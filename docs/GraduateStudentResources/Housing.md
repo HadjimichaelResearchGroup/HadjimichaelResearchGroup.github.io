@@ -6,7 +6,7 @@ If you've accepted an offer or are new to the area, finding housing can seem dau
 State College is a sweet town with lots to offer! There are great options for [hiking,](https://onwardstate.com/2023/10/19/five-fun-hikes-close-to-state-college/) [biking,](https://www.mtbproject.com/directory/8011558/state-college) [crafting,](https://artallianceofcentralpa.org) and [more](https://happyvalley.com/c/attractions). There are fun summer [farmers markets](https://happyvalley.com/c/farm-markets), occasional [live music](https://www.statecollege.com/events/category/concerts/) and [arts fest](https://arts-festival.com). 
 
 ### Neighborhoods Overview
-![](/Users/aas6791/HadjimichaelResearchGroup.github.io/docs/GraduateStudentResources/State College Housing 2024 - State College Housing Map.pdf "Map")
+![](Map.jpg)
 
 State College has a large undergrad population, so much of the town is devoted to serving them. As such, the area immediately closest to downtown will be convenient but may be noisy from undergrads/frat parties. The further you are from downtown, the quieter it will be. However, lots of the fun activities and bars are located downtown, so living in walking distance to those locations (and the Geology building) is a plus. Living on the south-east side of campus (downtown side) in the outer parts of the yellow shade or the inside of the pink shaded area are quiet and still accessible. Reasonable rent in this area is ~$700 per month.
 
