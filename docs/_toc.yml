@@ -6,11 +6,11 @@ root: intro.md
 parts:
 - chapters:
   - file: Contributing/Contributing.md
-    section:
+    sections:
     - file: Contributing/Instructions.md
     - file: Contributing/mdExample.md
   - file: GraduateStudentResources/Courses.md
-    section:
+    sections:
     - file: GraduateStudentResources/GraduateStudentResources.md
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Reimbursemen_expensing.md
