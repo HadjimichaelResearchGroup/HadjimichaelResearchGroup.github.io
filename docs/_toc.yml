@@ -5,14 +5,14 @@ format: jb-book
 root: intro.md
 parts:
 - chapters:
-  - file: Contributing/Contributing.md
+  - file: GraduateStudentResources/GraduateStudentResources.md
     sections:
-    - file: Contributing/Instructions.md
-    - file: Contributing/mdExample.md
-  - file: GraduateStudentResources/Courses.md
-    sections:
-    - file: GraduateStudentResources/GraduateStudentResources.md
+    - file: GraduateStudentResources/Courses.md
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Reimbursemen_expensing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
   - file: Training/Training
+  - file: Contributing/Contributing.md
+    sections:
+    - file: Contributing/Instructions.md
+    - file: Contributing/mdExample.md
