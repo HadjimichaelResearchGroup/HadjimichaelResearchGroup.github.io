@@ -74,7 +74,7 @@
 - Email: gqg5266@psu.edu
 - Office: 441 Deike
 
-### Alexander Thames:
+#### Alexander Thames:
 - PhD Student
 - Email: ayt5134@psu.edu
 
