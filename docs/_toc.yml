@@ -12,6 +12,8 @@ parts:
     - file: GraduateStudentResources/Reimbursemen_expensing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
   - file: Training/Training
+    sections:
+    - file: Training/GettingStartedWithROARCollab.md
   - file: Contributing/Contributing.md
     sections:
     - file: Contributing/Instructions.md
