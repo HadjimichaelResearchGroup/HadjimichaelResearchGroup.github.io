@@ -1,6 +1,6 @@
 ## Getting Started with ROAR Collab
 
-### What's a Cluster
+### What's a Cluster?
 Generally, references to a **cluster** are shorthand for an organization's **high performance computing (HPC) cluster**. A cluster is a collection of servers, each housing a number of CPUs and/or GPUs. Often times you will see the servers referred to as **nodes** and the CPUs/GPUs referred to as **cores**. These computing resources are all linked together, providing a tremendous improvement over your local machine in terms of scale, performance, and uniformity.
 
 ### Penn State's ROAR Collab
@@ -20,4 +20,5 @@ You should [click this link](https://pennstateoffice365-my.sharepoint.com/:p:/r/
 * move your files to/from the cluster
 * schedule simple interactive and batch jobs
 * set up python virtual environments
-Note that you can only access this presentation if you have Penn State login credentials.
+
+*Note: you can only access this presentation if you have Penn State login credentials.*
