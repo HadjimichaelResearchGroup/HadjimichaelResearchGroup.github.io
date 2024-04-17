@@ -12,7 +12,7 @@ parts:
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Reimbursement_Expensing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
-  - file: Training/Training
+  - file: Training/Training.md
     sections:
     - file: Training/GettingStartedWithROARCollab.md
     - file: Training/Jobs.md

@@ -1,7 +1,7 @@
 ## Parallelization
 
 ### What Is Parallel Computing?
-**Parallel computing** is an style of computation that takes advantage of multiple compute resources to concurrently execute a discrete number of tasks. Parallel computing exists in contrast to **serial computing**, where the same number of tasks would be solved sequentially using a single compute resource. 
+**Parallel computing** is a style of computation that takes advantage of multiple compute resources to concurrently execute a discrete number of tasks. Parallel computing exists in contrast to **serial computing**, where the same number of tasks would be solved sequentially using a single compute resource. 
 
 [//]: # "Traditionally, software is written for serial computation. In a classical coding example, a single CPU (or **core**) would execute a single script line by line until it reaches the end of the program. There may be loops and conditional statements included in the script, but functionally its execution happens serially. This process is analogous to how electricity would flow through a circuit that operates in series: element-by-element, one before the next, until reaching the end of the circuit. A problem with this type of script execution comes from the inclusion of intra-script nested loops; each iteration of the loop happens one by one, even though the previous iteration of the loop might have no effect on the following iteration. Generally, this serialization/bottlenecking causes a massive slowdown in performance, especially if the dataset the script is processing is large. If it were possible to decentralize the nested loops and have each independent element run concurrently, we could expect a massive speedup in execution time."
 
