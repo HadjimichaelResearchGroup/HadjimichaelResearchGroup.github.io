@@ -4,7 +4,7 @@ This lab manual is built using [Jupyter Books](https://jupyterbook.org/en/stable
 generator built around Markdown and Jupyter Notebooks.
 
 ### Download up-to-date repository
-- If you aren't familiar with git & GitHub, first see [this section of the lab manual](``Add AVA training``) for an introduction and installation instructions.
+- If you aren't familiar with git & GitHub, first see [this section of the lab manual](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Git%20and%20Github/Updated%20Foundations%20of%20git%20and%20GitHub.pptx?d=w35e01b106873456fa3b11b5b409fc002&csf=1&web=1&e=vvJYhx) for an introduction and installation instructions.
 - If you don't already have the lab manual repo, clone it from [our GitHub page]. Stay on the ``main`` branch.
 - If you already have the repo locally, make sure it is up to date by doing a ``git pull``.
 
@@ -17,6 +17,6 @@ generator built around Markdown and Jupyter Notebooks.
 
 ### Committing changes to the remote repository
 - Once you are satisfied with your changes locally, follow standard git protocols to ``add``, ``commit``, and ``push`` the changes to the remote repo on GitHub. 
-- We use GitHub Actions to automatically rebuild the Jupyter Book and redeploy the updated website to GitHub Pages each time a new commit is pushed to the main branch of the remote GitHub repo. The GitHub Action script is found at ``.github/workflows/deploy.yml``, along with several other scripts it deploys in the same directory. For more information on Jupiter Books, GitHub Actions, and GitHub Pages, see [this section of the lab manual](../ComputationalResources/Websites.md).
+- We use GitHub Actions to automatically rebuild the Jupyter Book and redeploy the updated website to GitHub Pages each time a new commit is pushed to the main branch of the remote GitHub repo. The GitHub Action script is found at ``.github/workflows/deploy-book.yml``, along with several other scripts it deploys in the same directory. For more information on Jupiter Books, GitHub Actions, and GitHub Pages, see [this section of the lab manual](../ComputationalResources/Websites.md).
 - **If your changes involved Jupyter Notebooks, you must include ``[ipynb]`` in the commit message**. This will trigger additional actions within the GitHub Action deployment script to install Python and R packages on the remote machine and rerun all Jupyter Notebooks. If you don't include ``[ipynb]`` in the commit message, the changes to any Jupyter Notebook-based pages will not be registered. This does not apply to Markdown-based pages, which should always be updated automatically regardless of commit message.
 - After pushing your change, **verify that the [GitHub Action](https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io/actions) completes with no errors,** and then **verify that your changes look correct and didn't break anything else on the [lab manual website](https://HadjimichaelResearchGroup.github.io/intro.html)**. If you refresh the website and don't see your new changes, you may need to clear your browser cache.

@@ -15,7 +15,7 @@ parts:
   - file: Training/Training.md
     sections:
     - file: Training/GettingStartedWithROARCollab.md
-    - file: Training/Jobs.md
+    - file: Training/SubmittingJobs.md
     - file: Training/Parallelization.md
   - file: Contributing/Contributing.md
     sections:
