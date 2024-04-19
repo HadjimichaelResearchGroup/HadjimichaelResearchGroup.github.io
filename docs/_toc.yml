@@ -20,4 +20,3 @@ parts:
   - file: Contributing/Contributing.md
     sections:
     - file: Contributing/Instructions.md
-    - file: Contributing/mdExample.md
