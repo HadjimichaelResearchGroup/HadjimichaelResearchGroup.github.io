@@ -8,9 +8,9 @@ State College is a sweet town with lots to offer! There are great options for [h
 ### Neighborhoods Overview
 ![](Map.jpg)
 
-State College has a large undergrad population, so much of the town is devoted to serving them. As such, the area immediately closest to downtown will be convenient but may be noisy from undergrads/frat parties. The further you are from downtown, the quieter it will be. However, lots of the fun activities and bars are located downtown, so living in walking distance to those locations (and the Geology building) is a plus. Living on the south-east side of campus (downtown side) in the outer parts of the yellow shaded area or the inside of the pink shaded area are quiet and still accessible. Reasonable rent in this area is ~$800 per month (2024 estimate).
+State College has a large undergrad population, so much of the town is devoted to serving them. As such, the area immediately closest to downtown will be convenient but may be noisy from undergrads/frat parties. The further you are from downtown, the quieter it will be. However, lots of the fun activities and bars are located downtown, so living in walking distance to those locations (and the Geology building) is a plus. Living on the south-east side of campus (downtown side) in the outer parts of the yellow shaded area or the inside of the pink shaded area are quiet and still accessible. 
 
-Tofttrees, in bright green on the map, is a good option. It is significantly cheaper than living by downtown, but it is at least a 10-minute drive from campus, and you'll need to commute to the office and back home after a night out. Reasonable rent in this area is ~$500 per month.
+Tofttrees, in bright green on the map, is a good option. It is significantly cheaper than living by downtown, but it is at least a 10-minute drive from campus, and you'll need to commute to the office and back home after a night out. 
 
 Some students live in Bellefonte because it's cheaper (though farther). A good option if you have a car and want to live in a quieter area.
 
@@ -34,13 +34,13 @@ I highly recommend [Freeze Thaw Cycles](https://freezethaw.com) for your bike re
 
 The bus is another good option. As mentioned above, try to find a house/apartment along the bus routes especially if you don't have a car. Bus passes for grad students who live a certain distance from campus are $21/month [here](https://transportation.psu.edu/ridepass-graduate-students). Some apartments will include the bus pass in your rent. The bus doesn't go everywhere, and *only the red, white, and blue loops are included in the student pass*. Check out the map [here.](https://catabus.com/system-map/) 
 
-Driving to campus is an option, however finding parking is a hassle. Register for a parking pass at [this link](https://transportation.psu.edu/student-parking). Try to find the day that pass purchasing opens and go to the Parking Portal as quick as you can to get a spot. The West Deck is cheaper and convenient for accessing the Deike building. Hot tip- Parking is free in the Deike lot on weekends 🙏 
+Driving to campus is an option, however finding parking is a hassle. Register for a parking pass at [this link](https://transportation.psu.edu/student-parking). Try to find the day that pass purchasing opens and go to the Parking Portal as quick as you can to get a spot. The West Deck is cheaper and convenient for accessing the Deike building. 
 ### Other considerations
 Once you've got a new address, don't forget to request that the USPS forwards your mail to your new location! You can request mail forwarding [here.](https://moversguide.usps.com/mgo/address-info?_gl=1%2aq2nled%2a_gcl_au%2aNzc3MjE0ODM3LjE3MTIxNjIzNDU.%2a_ga%2aMTk3NDE0NDUxNC4xNzEyMTYyMzQ1%2a_ga_3NXP3C8S9V%2aMTcxMjE2MjM0NS4xLjAuMTcxMjE2MjM0NS4wLjAuMA) or by going to a USPS post office. You can read more about the Change-Of-Address process [here](https://www.usps.com/manage/forward.htm). 
 
 If this is a new county for you, be sure to [register to vote](https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx) at your new location! Pennsylvania allows voters to vote by mail, so changing your address and selecting to recieve a mail-in ballot is a great option. In PA, you must register to vote 15 days before the election!
  
-State College is a great town for dumpster diving! If you're on a graduate student budget, you'll be able to thrift lots of furniture and other goodies from the street corner, or one of the many [thrift stores](https://onwardstate.com/2023/12/08/your-guide-to-thrifting-in-the-state-college-area/) in town.
+State College is a great town for dumpster diving! If you're on a graduate student budget ;), you'll be able to thrift lots of furniture and other goodies from the street corner, or one of the many [thrift stores](https://onwardstate.com/2023/12/08/your-guide-to-thrifting-in-the-state-college-area/) in town
 
 
 
