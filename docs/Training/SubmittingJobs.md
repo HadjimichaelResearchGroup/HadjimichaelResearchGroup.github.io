@@ -8,3 +8,4 @@ There are two primary methods of running jobs with the [SLURM Workload Manager (
 2. [via Batch Scheduling](https://www.icds.psu.edu/running-batch-jobs-on-roar-collab/)
 
 [We've put together a more in-depth training presentation on jobs at this link.](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Joining%20and%20Using%20the%20Cluster/JobTraining.pptx?d=w57c2beba60174af39d0d4ae715be4176&csf=1&web=1&e=ip2xww)
+The Roar Collab team has also developed a training on data management in the Cluster. Find it [here.](https://pennstateoffice365-my.sharepoint.com/:b:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Joining%20and%20Using%20the%20Cluster/data_management_slides.pdf?csf=1&web=1&e=wfBqLu)
