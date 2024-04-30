@@ -4,7 +4,7 @@ This lab manual is built using [Jupyter Books](https://jupyterbook.org/en/stable
 generator built around Markdown and Jupyter Notebooks.
 
 ### Download up-to-date repository
-- If you aren't familiar with git & GitHub, first see [this section of the lab manual](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Git%20and%20Github/Updated%20Foundations%20of%20git%20and%20GitHub.pptx?d=w35e01b106873456fa3b11b5b409fc002&csf=1&web=1&e=vvJYhx) for an introduction and installation instructions.
+- If you aren't familiar with git & GitHub, first see [this section of the lab manual](https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io/blob/main/docs/Training/GitAndGithub.md) for an introduction and installation instructions.
 - If you don't already have the lab manual repo, clone it from [our GitHub page]. Stay on the ``main`` branch.
 - If you already have the repo locally, make sure it is up to date by doing a ``git pull``.
 
