@@ -6,9 +6,7 @@ The Hadjimichael Lab is a team of interdisciplinary scientists investigating com
 
 **We will work together to mold the lab mission and values to something that represents all of us.**
 
-### Onboarding 
-
-#### First steps After Joining the Lab
+### First steps After Joining the Lab
 Complete these onboarding steps when you start work in the lab:
 
 Read the Hadjimichael Lab Manual
@@ -60,8 +58,7 @@ All members of the lab are expected to pitch in to support the function of our l
 - Office Space: Every graduate student will be assigned a desk in an office in Deike. You will recieve a key to that office, and a key to the Deike mail room. It is important to always lock the office door when the office is empty, as your office mates may have left their laptop or other precious items in the office. If you would like to change offices, talk with other members of the lab. Desks usually open up at the end of the Spring semester. 
 - Equipment: Everyone in the research group must have a functional computer capable of performing intensive computational modeling work. If you do not have a computer which meets that criteria, please reach out to Antonia and she will arrange to provide you with a working computer - please don’t be shy about this! If you do already have a computer you can continue to use, that will help the lab’s resources go farther.
 
-### Meetings and Communication
-#### Weekly Individual Meetings
+### Weekly Individual Meetings
 At the beginning of each semester, we will set a time for weekly individual meetings. Meetings are typically 45 minutes, once a week. Early-stage PhD students should keep these meetings every week. More senior lab members can feel free to cancel meetings, but we should touch base at least every other week. Individual Meetings are a tool to help you to make productive use of your weekly meetings with Antonia. **You should plan to create a slide deck that you will use in the meeting to facilitate conversation about items you want feedback on.** These slides serve as a project management tool that allows you and Antonia to align and keep track of what you are working on, and agreed next steps
 The slides may include:
 - A meeting agenda
@@ -71,7 +68,7 @@ The slides may include:
 
 While your report does not need to be a polished presentation, it should be easy to follow as you talk through your research progress with Antonia. **It is your responsibility to set the agenda, come prepared for each meeting, and lead the meeting.** After the meeting, you may find it helpful to write out a short summary of the next steps you’ve agreed on so we don’t forget what was discussed.
 
-#### Weekly Lab Meetings
+### Weekly Lab Meetings
 Weekly lab meetings (1 hour each) are meant to be a forum for us to learn collaboratively. In these weekly lab meetings, we rotate between 4 formats.
 - **Paper Discussions:** One person will select a broadly applicable paper for everyone to read. This person will facilitate the discussion and guide the group in learning about the topic. 
 - **Project updates:** Each person will contribute one or two slides about the status of their project to a combined deck. We will go around the room and remind everyone of our project purpose, and share where things currently stand. The slides template is here.
@@ -86,7 +83,7 @@ You should treat your position in the Hadjimichael Lab as a full-time job. You a
 ### Presentations and Posters
 Learning to present is an important skill and helps increase the visibility of your work. You are  encouraged to seek out opportunities to present your research. Be prepared to give a practice talk to the lab, ideally at least two weeks before your presentation. Practice talks will help you feel comfortable with your presentation, practice answering questions, and get feedback from the lab and implement changes well in advance of your real presentation. All students should plan to present in the Penn State Graduate Student Colloquium, typically held in April. 
 
-#### Conferences
+### Conferences
 PhD students and postdocs are encouraged to attend **1-2 conferences per year,** subject to funding availability. Keep an eye out for conference deadlines, which can occur six months or more in advance. Lab members should get Antonia’s approval on a conference abstract before submitting it and get Antonia’s feedback on a poster or talk before giving it.
 
 ### References
