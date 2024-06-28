@@ -5,9 +5,9 @@ As a member of the Hadjimichael lab group, you'll learn a lot, pick up new skill
 The Hadjimichael Lab is a team of interdisciplinary scientists investigating complex human-Earth systems. In particular, many of us focus on water resources and deeply uncertain systems. 
 We will work together to mold the lab mission and values to something that represents all of us. 
 
-###Onboarding 
+### Onboarding 
 
-####First steps After Joining the Lab
+#### First steps After Joining the Lab
 Complete these onboarding steps when you start work in the lab:
 
 - Read the Hadjimichael Lab Manual (here!)
@@ -22,47 +22,47 @@ Complete these onboarding steps when you start work in the lab:
 - Meet with Antonia to discuss initial research steps
 - Create a list of personal and/or professional goals to be reviewed with Antonia.
 
-####Slack
+#### Slack
 We have a group Slack channel that we use to stay in touch, both on work projects and social. It is especially important to be active on Slack as this will be our primary day-to-day mode of building community and communication. We use Slack for quick day-to-day communication. If you need feedback from Antonia on something or have a document for review, sending it via Slack is often the fastest way to receive feedback.
 
-####OneDrive (Here)[https://pennstateoffice365-my.sharepoint.com/personal/azh5924_psu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fazh5924%5Fpsu%5Fedu%2FDocuments%2FHadjimichael%20Group%20Materials&FolderCTID=0x0120008952A82476B1E345A8ED3169A878FA45&view=0]
+#### OneDrive (Here)[https://pennstateoffice365-my.sharepoint.com/personal/azh5924_psu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fazh5924%5Fpsu%5Fedu%2FDocuments%2FHadjimichael%20Group%20Materials&FolderCTID=0x0120008952A82476B1E345A8ED3169A878FA45&view=0]
 The OneDrive is a shared drive where all important lab documents are kept. You can share documents with Antonia here, keep your weekly meeting slides here, and access past trainings here.
 
-####Group Outlook Calendar 
+#### Group Outlook Calendar 
 The calendar is where we track when lab members will be out of town or working remotely. We also track when Antonia is gone. This calendar will be shared to your outlook- please reach out if you have not received it.
 
-####Group Meeting Calendar (Here)[https://pennstateoffice365-my.sharepoint.com/:x:/r/personal/azh5924_psu_edu/_layouts/15/doc2.aspx?sourcedoc=%7BBD2A615C-4417-45CB-9EC6-769ABC892C5C%7D&file=Summer%202024%20Discussion%20Topics.xlsx&action=default&mobileredirect=true]
+#### Group Meeting Calendar (Here)[https://pennstateoffice365-my.sharepoint.com/:x:/r/personal/azh5924_psu_edu/_layouts/15/doc2.aspx?sourcedoc=%7BBD2A615C-4417-45CB-9EC6-769ABC892C5C%7D&file=Summer%202024%20Discussion%20Topics.xlsx&action=default&mobileredirect=true]
 The lab meeting calendar helps us keep track of what will be discussed in the weekly lab meetings. We also list discussion ideas and brief notes about who is leading the meetings.
 
-####Github (Here)[https://hadjimichaelresearchgroup.github.io/intro.html]
+#### Github (Here)[https://hadjimichaelresearchgroup.github.io/intro.html]
 Github is where we maintain the lab manual. If you aren’t yet familiar with github, we have trainings to help you learn. Everyone will help keep the lab manual updated.
 
-####Lab Slides (Here)[https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4200626B-021A-4A13-B141-B5F0DFAF9176%7D&file=Carla_update_21_2_2024.pptx&action=edit&mobileredirect=true]
+#### Lab Slides (Here)[https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4200626B-021A-4A13-B141-B5F0DFAF9176%7D&file=Carla_update_21_2_2024.pptx&action=edit&mobileredirect=true]
 In the Hadjimichael lab, we believe strongly that visual communication tools are an important part of being an effective scientist. We strive to have our work look and feel clean, organized, and professional. As such, we have a slides template that helps share out cohesive identity. Additionally, this makes sharing and reusing slides easier.
 
-###Lab Administration and Roles
+### Lab Administration and Roles
 All members of the lab are expected to pitch in on a day-to-day basis to support the function of our lab activities and infrastructure. Formal lab roles may include the following and assignments will be made and updated here on an annual basis. However, everyone is also expected to pitch-in informally as necessary. Furthermore, the Lab Manual (here) is a living document and everyone must pitch in to keep it up to date.
 
-####$Github manager: Alex
+#### Github manager: Alex
 The website manager is responsible for keeping the lab website up to date. 
 
-####$Website manager: Ava
+#### Website manager: Ava
 The website manager is responsible for keeping the lab website up to date. 
 
-#####$Social event coordinator: Maddie
+##### Social event coordinator: Maddie
 The social event coordinator organizes regular lab activities (lab lunches, happy hours, birthday celebrations, etc.), and special events (e.g. lab dinners, game nights, at least once a quarter).
 The social event coordinator will coordinate time (via when2meet), gather resources (could assign tasks to other lab members for assistance).
 
-####$Lab meeting Zoom setup: Maddie
+#### Lab meeting Zoom setup: Maddie
 The Zoom setup coordinator is responsible for coming to the lab meeting room early to set up any necessary Zoom equipment in the case that someone is joining remotely. This role allows for lab meetings to start promptly and optimize lab meeting events.
 
-###Equipment and Office Space
+### Equipment and Office Space
 - Office Space: Every student with a desk in an office gets a key to that office. It is important to always lock the office door when the office is empty, as your office mates may have left their laptop or other precious items in the office. If extra keys to one office are available, it is good practice to place them in another office that belongs to the lab. This way, if you are accidentally locked out, other lab members may be able to help you. 
 If you would like to change offices, talk with other members of the lab. Desks usually open up at the end of the Spring semester. 
 - Equipment: Everyone in the research group must have a functional computer capable of performing intensive computational modeling work. If you do not have a computer which meets that criteria, please reach out to Antonia and she will arrange to provide you with a working computer - please don’t be shy about this! If you do already have a computer you can continue to use, that will help the lab’s resources go farther.
 
-###Meetings and Communication
-####Weekly Individual Meetings
+### Meetings and Communication
+#### Weekly Individual Meetings
 At the beginning of each semester, we will set a time for weekly individual meetings. Meetings are typically 45 minutes, once a week. Early-stage PhD students should keep these meetings every week. More senior lab members can feel free to cancel meetings, but we should touch base at least every other week. Individual Meetings are a tool to help you to make productive use of your weekly meetings with Antonia. You should plan to create a slide deck that you will use in the meeting to facilitate conversation about items you want feedback on. These slides serve as a project management tool that allows you and Antonia to align and keep track of what you are working on, and agreed next steps
 The slides may include:
 --  A meeting agenda
@@ -72,7 +72,7 @@ The slides may include:
 
 While your report does not need to be a polished presentation, it should be easy to follow as you talk through your research progress with Antonia. It is your responsibility to set the agenda, come prepared for each meeting, and lead the meeting. After the meeting, you may find it helpful to write out a short summary of the next steps you’ve agreed on so we don’t forget what was discussed.
 
-####Weekly Lab Meetings
+#### Weekly Lab Meetings
 Weekly lab meetings (1 hour each) are meant to be a forum for us to learn collaboratively. In these weekly lab meetings, we rotate between 4 formats. 
 -- In paper discussion weeks, one person will select a broadly applicable paper for everyone to read. This person will facilitate the discussion and guide the group in learning about the topic. 
 -- In project update weeks, each person will contribute one or two slides about the status of their project to a combined deck. We will go around the room and remind everyone of our project purpose, and share where things currently stand. The slides template is here.
@@ -82,17 +82,17 @@ Weekly lab meetings (1 hour each) are meant to be a forum for us to learn collab
 Each lab member is expected to present at least once a year, with more senior PhD students and postdocs presenting 2-3 times per year. Lab members are also expected to attend every meeting (obviously, vacation, illnesses, doctor appointments, family issues, etc. are a valid reason for missing a meeting). 
 In these meetings, students from other labs and colleges are invited to join, and many come regularly! They broaden our group of research peers, strengthen our science communication skills, and help us learn about topics outside of our scope. 
 
-###Work Time and Milestones
+### Work Time and Milestones
 You should treat your position in the Hadjimichael Lab as a full-time job. For graduate students, this job is divided between research and coursework.
 You are allowed to work remotely as needed, but you must still attend lab meetings by Zoom. You may take 3 weeks of paid time off each year, in addition to official university holidays. Please request time off in advance and put it on the lab calendar. Make sure that you meet any agreed-upon commitments before you leave, and discuss with me in advance if this is not feasible. School breaks (e.g., winter closure) are not automatic holidays, though you may choose to take your vacations during these times.
 
-###Presentations and Posters
+### Presentations and Posters
 Learning to present is an important skill and helps increase the visibility of your work. You are  encouraged to seek out opportunities to present your research. Be prepared to give a practice talk to the lab, ideally at least two weeks before your presentation. Practice talks will help you feel comfortable with your presentation, practice answering questions, and get feedback from the lab and implement changes well in advance of your real presentation. Reach out to other lab members for poster design ideas and to check over your first drafts. Antonia will review your poster before you print it.
 All students should plan to present in the Penn State Graduate Student Colloquium, typically held in April. 
-####Conferences
+#### Conferences
 PhD students and postdocs are encouraged to attend 1-2 conferences per year, subject to funding availability. Keep an eye out for conference deadlines, which can occur six months or more in advance. Your conference strategy will depend on your specific research project and plans after graduation. It is a good idea to put your conference plans in your Individual Development Plan each year. 
 All lab members should get Antonia’s approval on a conference abstract before submitting it and get Antonia’s feedback on a poster or talk before giving it. Give her plenty of time to review it (see deadlines policy), especially when multiple lab members are attending the same conference and also need feedback.
 Networking is an important part of the conference experience, and should be planned in advance.
 
-###References
+### References
 This lab manual borrows heavily from excellent manuals created by Sarah Fletcher, Morgan Edwards, Meagan Mauter, Casey terHorst, Alex Konings, and Mariam Aly .
