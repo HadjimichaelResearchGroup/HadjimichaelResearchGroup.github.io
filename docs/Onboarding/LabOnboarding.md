@@ -56,7 +56,7 @@ All members of the lab are expected to pitch in to support the function of our l
   - The social event coordinator organizes fun lab activities and special events. 
 
 - **Lab meeting Zoom setup: Maddie**
-  - The Zoom setup coordinator is responsible for coming to the lab meeting room early to set up any necessary Zoom equipment.
+  - The Zoom setup coordinator is responsible for coming to the lab meeting room early to set up any necessary Zoom equipment. They also send out When to Meet polls to determine group meeting times.
 
 ### Equipment and Office Space
 - Office Space: Every graduate student will be assigned a desk in an office in Deike. You will recieve a key to that office, and a key to the Deike mail room. It is important to always lock the office door when the office is empty, as your office mates may have left their laptop or other precious items in the office. If you would like to change offices, talk with other members of the lab. Desks usually open up at the end of the Spring semester. 
