@@ -9,21 +9,17 @@ The Hadjimichael Lab is a team of interdisciplinary scientists investigating com
 ### First steps After Joining the Lab
 Complete these onboarding steps when you start work in the lab:
 
-Read the Hadjimichael Lab Manual.
-
-Reach out to the website manager to add your picture and bio to the site
-
-Meet with Antonia to discuss initial research steps
-
-Create a list of personal and/or professional goals to be reviewed with Antonia.
-
-Request access to lab tools:
-- Slack 
-- OneDrive 
-- Outlook Calendar
-- Meeting Calendar
-- Github
-- Powerpoint Slides
+- Read the Hadjimichael Lab Manual.
+- Reach out to the website manager to add your picture and bio to the site
+- Meet with Antonia to discuss initial research steps
+- Create a list of personal and/or professional goals to be reviewed with Antonia.
+- Request access to lab tools:
+    - Slack 
+    - OneDrive 
+    - Outlook Calendar
+    - Meeting Calendar
+    - Github
+    - Powerpoint Slides
 
 #### Slack
 We have a group Slack channel that we use to stay in touch, both on work and social activities. It is important to be active on Slack as this will be our primary mode of communication. We use Slack for quick day-to-day communication. If you need feedback from Antonia on something or have a document for review, sending it via Slack is often the fastest way to receive feedback.
