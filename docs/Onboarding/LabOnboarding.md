@@ -11,7 +11,8 @@ Complete these onboarding steps when you start work in the lab:
 
 - Read the Hadjimichael Lab Manual.
 - Reach out to the website manager to add your picture and bio to the site
-- Meet with Antonia to discuss initial research steps
+- Get keys and office space from Geoscience Administrators (typically during grad student onboarding days)
+- Meet with Antonia to discuss initial research steps and equipment
 - Create a list of personal and/or professional goals to be reviewed with Antonia.
 - Request access to lab tools:
     - Slack 
