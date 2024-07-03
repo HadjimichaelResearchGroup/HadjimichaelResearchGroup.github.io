@@ -79,7 +79,7 @@ Weekly lab meetings (1 hour each) are meant to be a forum for us to learn collab
 
 In our weekly meetings, students from other labs and colleges are invited to join, and many come regularly! They broaden our group of research peers, strengthen our science communication skills, and help us learn about topics outside of our scope. 
 
-### Work Time and Milestones
+### Work Time
 You should treat your position in the Hadjimichael Lab as a full-time job. You are allowed to work remotely occasionally as needed, but you must still attend lab meetings by Zoom. You may take 3 weeks of paid time off each year, in addition to official university holidays. Please request time off in advance and put it on the lab calendar. Make sure that you meet any agreed-upon commitments before you leave, and discuss with Antonia in advance. 
 
 ### Presentations and Posters
