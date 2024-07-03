@@ -1,4 +1,4 @@
-## Welcome to the Lab!
+## Welcome to the Hadjimichael Group!
 We're glad you've joined us! This document will provide some background for how we operate as a group. 
 
 ### Mission and Values
