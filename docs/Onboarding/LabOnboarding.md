@@ -26,7 +26,7 @@ Complete these onboarding steps when you start work in the lab:
 We have a group Slack channel that we use to stay in touch, both on work and social activities. It is important to be active on Slack as this will be our primary mode of communication. We use Slack for quick day-to-day communication. If you need feedback from Antonia on something or have a document for review, sending it via Slack is often the fastest way to receive feedback.
 
 #### OneDrive [Here](https://pennstateoffice365-my.sharepoint.com/personal/azh5924_psu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fazh5924%5Fpsu%5Fedu%2FDocuments%2FHadjimichael%20Group%20Materials&FolderCTID=0x0120008952A82476B1E345A8ED3169A878FA45&view=0)
-The OneDrive is a shared drive where all important lab documents are kept. You can share documents with Antonia here, keep your weekly meeting slides here, and access past trainings here.
+The OneDrive is a shared drive where all important lab documents are kept. You can share documents with Antonia here, keep your weekly meeting slides here, and access past trainings. If you are an overachiever, feel free to start any of the trainings in the OneDrive. In particular, we recommend the Python and Pycharm training, and the Intro to Github trainings if you are not already familliar.
 
 #### Group Outlook Calendar 
 The calendar is where we track when lab members will be out of town or working remotely. We also track when Antonia is gone. This calendar will be shared to your outlook- please reach out if you have not received it.
