@@ -44,15 +44,18 @@ In the Hadjimichael lab, we believe strongly that visual communication tools are
 All members of the lab are expected to pitch in to support the function of our lab activities and infrastructure. Formal lab roles may include the following and assignments will be made and updated here on an annual basis. However, this Lab Manual is a living document and everyone must pitch in to keep it up to date.
 
 - **Github managers: Alex and Gabriela**
-  - The website manager is responsible for keeping the github page functional and neat. 
+  - The Github manager is responsible for keeping the github page updated, implementing feedback, and maintaining the site. 
 
 - **Website manager: Ava**
-  - The website manager is responsible for keeping the lab website up to date. 
+  - The website manager is responsible for keeping the lab website up to date with new members, recent and upcoming talks, papers, presentations, and awards. The website manager also ensures that posted materials (posters, papers, and recorded talks) have open access Zenodo pages and accessible DOI's.
 
-- **Social event coordinator: Maddie**
-  - The social event coordinator organizes fun lab activities and special events. 
+- **Social event coordinator: Enock**
+  - The social event coordinator organizes fun lab activities and special events.
+    
+- **Equipment manager: Enock**
+  - The equipment manager tracks what equipment each lab member has and what equipment is available for use.
 
-- **Lab meeting Zoom setup: Maddie**
+- **Zoomer: Maddie**
   - The Zoom setup coordinator is responsible for coming to the lab meeting room early to set up any necessary Zoom equipment. They also send out When to Meet polls to determine group meeting times.
 
 ### Equipment and Office Space
