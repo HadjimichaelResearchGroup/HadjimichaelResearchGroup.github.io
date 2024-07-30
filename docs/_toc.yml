@@ -18,9 +18,6 @@ parts:
     - file: Training/SubmittingJobs.md
     - file: Training/Parallelization.md
     - file: Training/LaTeXandOverleaf.md
-  - file: Onboarding/LabOnboarding.md
-    sections:
-    - file: Onboarding/LabOnboarding.md
   - file: Contributing/Contributing.md
     sections:
     - file: Contributing/Instructions.md
