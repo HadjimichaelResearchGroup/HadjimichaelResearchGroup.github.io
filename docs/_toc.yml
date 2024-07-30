@@ -5,6 +5,7 @@ format: jb-book
 root: intro.md
 parts:
 - chapters:
+
   - file: GraduateStudentResources/GraduateStudentResources.md
     sections:
     - file: GraduateStudentResources/ApplyingForDepartmentFunds.md
@@ -12,14 +13,17 @@ parts:
     - file: GraduateStudentResources/Housing.md
     - file: GraduateStudentResources/Reimbursement_Expensing.md
     - file: GraduateStudentResources/Who_to_contact_for.md
+    
   - file: Onboarding/Onboarding.md
     sections:
     - file: Onboarding/LabOnboarding.md
+    
   - file: Training/Training.md
     sections:
     - file: Training/GettingStartedWithROARCollab.md
     - file: Training/SubmittingJobs.md
     - file: Training/Parallelization.md
+    
   - file: Contributing/Contributing.md
     sections:
     - file: Contributing/Instructions.md
