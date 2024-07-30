@@ -53,9 +53,9 @@ Example .bib entry:
 Example: According to \cite{example2024}, this is an example of a citation.
 
 ### Useful Overleaf templates
-**[PSU dissertation and Thesis templates](https://guides.libraries.psu.edu/latex/templates)
+- **[PSU dissertation and Thesis templates](https://guides.libraries.psu.edu/latex/templates)**
 
-**[AGU journal templates](https://www.overleaf.com/gallery/tagged/agu-official)
+- **[AGU journal templates](https://www.overleaf.com/gallery/tagged/agu-official)**
 
 ### Collaboration on Overleaf
 To collaborate on a document in Overleaf:
