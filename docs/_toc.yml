@@ -23,4 +23,4 @@ parts:
     - file: Contributing/Instructions.md
   - file: Onboarding/Onboarding.md
     sections:
-    - file: LabOnboarding/LabOnboarding.md
+    - file: Onboarding/LabOnboarding.md
