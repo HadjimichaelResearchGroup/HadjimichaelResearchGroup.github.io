@@ -1,95 +1,94 @@
 ## Who-to-contact for …
 
-### Geosciences Faculty:
-#### Don Fisher:
-- Associate Head for Graduate Programs, Professor
-    - Petition classes
+### _Geosciences Faculty_
+#### **Associate Head for Graduate Programs, Professor**
+- Name: Don Fisher
 - Email: dmf6@psu.edu
 - Office: 339 Deike
+- Note: Petitioning classes
 
-#### Andrew Nyblade:
-- Department Head, Professor
+#### **Department Head, Professor**
+- Name: Andrew Nyblade
 - Email: aan2@psu.edu
 - Office: 116BDeike
 
-#### Elizabeth Hajek:
-- Associate Head for Diversity, Equity, and Inclusion, Professor
-  - Any DEI related questions/concerns
+#### **Associate Head for Diversity, Equity, and Inclusion, Professor**
+- Name: Elizabeth Hajek
 - Email: hajek@psu.edu
 - Office: 534 Deike
 
-### Geosciences Staff:
-#### Amy Hasan:
-- Administrative Support Coordinator
-  - General department questions, department events
+### _Geosciences Staff_
+#### **Administrative Support Coordinator**
+- Name: Amy Hasan
 - Email: alh31@psu.edu
 - Office: 116F Deike
+- Note: Department questions, department events
 
-#### Jennifer Houser:
-- Graduate Student Coordinator
-  - Register for research credits, send annual review reports to, graduate student deadlines and events, fellowship/internship/job opportunities
+#### **Graduate Student Coordinator**
+- Name: Jennifer Houser
 - Email: jjh2@psu.edu
 - Office: 116 Deike
+- Note: Register for research credits, send annual review reports to, graduate student deadlines and events, fellowship/internship/job opportunities
 
-#### Loren Newman:
-- Financial Coordinator
-  - Reimbursements, travel expenses, anything money, sign up for Monday coffee hour
+#### **Financial Coordinator**
+- Name: Loren Newman
 - Email: ljn5212@psu.edu
 - Office: 116D Deike
+- Note: Reimbursements, travel expenses, anything money, sign up for Monday coffee hour
 
-#### Laura Rush:
-- Administrative Support Assistant
-  - Keys, room access, colloquium speaker information, department events
+#### **Administrative Support Assistant**
+- Name: Laura Rush
 - Email: lbr5310@psu.edu
 - Office: 116 Deike
+- Note: Keys, room access, colloquium speaker information, department events
 
-#### Steve Swavely:
-- Research Support Technologist
-  - Office Issues
+#### **Research Support Technologist**
+- Name: Steve Swavely:
 - Email: sls71@psu.edu
 - Office: 509 Deike
+- Note: Intra-office issues
 
-### Resources:
-### Need help with your PSU technology or downloading software on your PSU computer?
+### _Resources_
+Need help with your PSU technology or downloading software on your PSU computer?
 - Email: helpdesk@ems.psu.edu
 - Phone: 814-865-4357
-- Contact: PC/Windows help, Zachary McClure
+- PC/Windows
+  - Name: Zachary McClure
   - Email: zsm5133@psu.edu
   - Office: 226 Deike
-- Contact: Mac help, Brandon Brambaugh
+- Mac/macOS
+  - Name: Brandon Brambaugh
   - Email: bmb6053@psu.edu
 
-### Need help with Road or Roar Collab?
+### _ROAR and ROAR Collab_
 - Email: icds@psu.edu
 
-### Hadjimichael Group:
-#### Antonia Hadjimichael
-- Assistant Professor, PI
+### _Hadjimichael Group_
+#### **Assistant Professor, PI**
+- Name: Antonia Hadjimichael
 - Email: hadjimichael@psu.edu
 - Office: 212 Deike
 - Website: [Hadjimichael Group](https://www.hadjimichaelgroup.info/)
 
-#### Gabriela Gesualdo:
-- Postdoctoral Associate
-- Email: gqg5266@psu.edu
-- Office: 441 Deike
+#### **Postdoctoral Associates**
+- Gabriela Gesualdo
+  - Email: gqg5266@psu.edu
+  - Office: 441 Deike
 
-#### Alexander Thames:
-- PhD Student
-- Email: ayt5134@psu.edu
+#### **PhD Students**
+- Name: Alexander Thames
+  - Email: ayt5134@psu.edu
+  - Office: 336 Deike
+- Name: Ava Spangler
+  - Email: aas6791@psu.edu
+  - Office: 236 Deike
 
-#### Enock Bunyon:
-- MS Student
-- Email: eqb5508@psu.edu
-- Office: 437 Deike
+#### **MS Students** 
+- Name: Enock Bunyon
+  - Email: eqb5508@psu.edu
+  - Office: 437 Deike
+- Name: Madison Hernandez
+  - Email: mjh7517@psu.edu
+  - Office: 303A Deike
 
-#### Madison Hernandez:
-- MS Student
-- Email: mjh7517@psu.edu
-- Office: 303A Deike
-
-#### Ava Spangler:
-- MS Student
-- Email: aas6791@psu.edu
-- Office: 236 Deike
 
