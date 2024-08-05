@@ -1,18 +1,18 @@
 ## Who-to-contact for …
 
 ### _Geosciences Faculty_
-#### **Associate Head for Graduate Programs, Professor**
+#### **Associate Head for Graduate Programs**
 - Name: Don Fisher
 - Email: dmf6@psu.edu
 - Office: 339 Deike
 - Note: Petitioning classes
 
-#### **Department Head, Professor**
-- Name: Andrew Nyblade
-- Email: aan2@psu.edu
-- Office: 116BDeike
+#### **Department Head**
+- Name: Chris House 
+- Email: chrishouse@psu.edu
+- Office: 435 Deike
 
-#### **Associate Head for Diversity, Equity, and Inclusion, Professor**
+#### **Associate Head for Diversity, Equity, and Inclusion**
 - Name: Elizabeth Hajek
 - Email: hajek@psu.edu
 - Office: 534 Deike
