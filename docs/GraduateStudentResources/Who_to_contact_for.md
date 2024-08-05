@@ -66,9 +66,9 @@ Need help with your PSU technology or downloading software on your PSU computer?
 ### _Hadjimichael Group_
 #### **Assistant Professor, PI**
 - Antonia Hadjimichael
-- hadjimichael@psu.edu
-- Office: 212 Deike
-- Website: [Hadjimichael Group](https://www.hadjimichaelgroup.info/)
+  - hadjimichael@psu.edu
+  - Office: 212 Deike
+  - Website: [Hadjimichael Group](https://www.hadjimichaelgroup.info/)
 
 #### **Postdoctoral Associates**
 - Gabriela Gesualdo
