@@ -65,30 +65,30 @@ Need help with your PSU technology or downloading software on your PSU computer?
 
 ### _Hadjimichael Group_
 #### **Assistant Professor, PI**
-- Name: Antonia Hadjimichael
-- Email: hadjimichael@psu.edu
+- Antonia Hadjimichael
+- hadjimichael@psu.edu
 - Office: 212 Deike
 - Website: [Hadjimichael Group](https://www.hadjimichaelgroup.info/)
 
 #### **Postdoctoral Associates**
 - Gabriela Gesualdo
-  - Email: gqg5266@psu.edu
+  - gqg5266@psu.edu
   - Office: 441 Deike
 
 #### **PhD Students**
-- Name: Alexander Thames
-  - Email: ayt5134@psu.edu
+- Alexander Thames
+  - ayt5134@psu.edu
   - Office: 336 Deike
-- Name: Ava Spangler
-  - Email: aas6791@psu.edu
+- Ava Spangler
+  - aas6791@psu.edu
   - Office: 236 Deike
 
 #### **MS Students** 
-- Name: Enock Bunyon
-  - Email: eqb5508@psu.edu
+- Enock Bunyon
+  - eqb5508@psu.edu
   - Office: 437 Deike
-- Name: Madison Hernandez
-  - Email: mjh7517@psu.edu
+- Madison Hernandez
+  - mjh7517@psu.edu
   - Office: 303A Deike
 
 
