@@ -11,7 +11,7 @@ Penn State has had several clusters over the past decade, with the most recent i
 * *Free To Use*: All PSU students can use ROAR Collab and its "Open" allocation with the creation of an account. You do **not** need to be put on someone's allocation to take advantage of these resources.
 
 ### Setting Up an Account
-You should [click this link](https://www.icds.psu.edu/roar-collab-user-guide/) to get started setting up an account. This link is also a helpful resource (through the Table of Contents) for some of the rudimentary syntax for running jobs, getting details about the Open Queue, file storage information, and available software.
+You should [click this link](https://www.icds.psu.edu/roar-collab-user-guide/) to get started setting up an account. This link is also a helpful resource (through the Table of Contents) for some of the rudimentary syntax for running jobs, getting details about the Open Queue, file storage information, and available software. If you don't know it, our advisor's Penn State ID (in the `abc1234` format) can be found [here at the Penn State Directory.](https://directory.psu.edu/)
 
 ### What Do I Do After I Have an Account?
 You should [click this link](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Joining%20and%20Using%20the%20Cluster/ClusterTraining.pptx?d=w9bc7a237922341b98927cc4d7dd098b1&csf=1&web=1&e=GSHOEX) to be taken to a PowerPoint presentation detailing how to: 
