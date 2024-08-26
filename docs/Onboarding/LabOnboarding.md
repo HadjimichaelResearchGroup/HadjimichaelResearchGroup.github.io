@@ -6,7 +6,7 @@ The Hadjimichael Lab is a team of interdisciplinary scientists investigating com
 
 **We will work together to mold the lab mission and values to something that represents all of us.**
 
-### First steps After Joining the Lab
+### First Steps After Joining the Lab
 Complete these onboarding steps when you start work in the lab If you have any questions during your onboarding process, reach out to Enock. 
 
 - Read the Hadjimichael Lab Manual.
