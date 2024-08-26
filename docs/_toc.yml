@@ -24,3 +24,4 @@ parts:
   - file: Onboarding/Onboarding.md
     sections:
     - file: Onboarding/LabOnboarding.md
+    - file: Onboarding/PhilosophicalOnboarding.md
