@@ -8,7 +8,7 @@ Now that you’re part of the Hadjimichael lab group, we’ll get you up to spee
 - [Groves and Lempert (2007)](10.1016/j.gloenvcha.2006.11.006)
 - [Quinn et al. (2017)](10.1016/j.envsoft.2017.02.017)
 
-## #Risks in complex systems and Multisector Dynamics
+### Risks in complex systems and Multisector Dynamics
 - [Reed et al. (2022)](https://doi.org/10.1029/2021EF002621)
 - [Simpson et al. (2021)](https://doi.org/10.1016/j.oneear.2021.03.005)
 - [Hadjimichael et al. (2020)](https://doi.org/10.1029/2020EF001503)
