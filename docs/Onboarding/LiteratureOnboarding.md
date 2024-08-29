@@ -1,4 +1,4 @@
-## Philosophical Onboarding
+## Literature Onboarding
 
 Now that you’re part of the Hadjimichael lab group, we’ll get you up to speed with the core methods, philosophies, and tenets which we integrate into our work. Our work falls under the broad umbrellas of climate impacts and adaptation. As scientists, we work to answer complex inter- and trans-disciplinary questions by applying concepts and methods from: robust decision making, uncertainty characterization, exploratory modeling, data analytics, and actionable science. Below, you’ll find some key papers to get you up to speed on these topics and their implementation.
 

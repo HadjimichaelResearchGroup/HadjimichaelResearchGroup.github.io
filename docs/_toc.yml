@@ -5,6 +5,17 @@ format: jb-book
 root: intro.md
 parts:
 - chapters:
+  - file: Onboarding/Onboarding.md
+    sections:
+    - file: Onboarding/LabOnboarding.md
+    - file: Onboarding/LiteratureOnboarding.md
+    - file: Onboarding/SoftwareOnboarding.md
+  - file: Training/Training.md
+    sections:
+    - file: Training/GettingStartedWithROARCollab.md
+    - file: Training/SubmittingJobs.md
+    - file: Training/Parallelization.md
+    - file: Training/LaTeXandOverleaf.md
   - file: GraduateStudentResources/GraduateStudentResources.md
     sections:
     - file: GraduateStudentResources/Courses.md
@@ -12,16 +23,6 @@ parts:
     - file: GraduateStudentResources/ApplyingForDepartmentFunds.md
     - file: GraduateStudentResources/Reimbursement_Expensing.md
     - file: GraduateStudentResources/Who_to_contact_for.md    
-  - file: Training/Training.md
-    sections:
-    - file: Training/GettingStartedWithROARCollab.md
-    - file: Training/SubmittingJobs.md
-    - file: Training/Parallelization.md
-    - file: Training/LaTeXandOverleaf.md
   - file: Contributing/Contributing.md
     sections:
     - file: Contributing/Instructions.md
-  - file: Onboarding/Onboarding.md
-    sections:
-    - file: Onboarding/LabOnboarding.md
-    - file: Onboarding/PhilosophicalOnboarding.md

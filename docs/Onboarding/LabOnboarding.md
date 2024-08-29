@@ -43,8 +43,11 @@ In the Hadjimichael lab, we believe strongly that visual communication tools are
 ### Lab Administration and Roles
 All members of the lab are expected to pitch in to support the function of our lab activities and infrastructure. Formal lab roles may include the following and assignments will be made and updated here on an annual basis. However, this Lab Manual is a living document and everyone must pitch in to keep it up to date.
 
-- **Github managers: Alex and Gabriela**
+- **Github manager: Alex**
   - The Github manager is responsible for keeping the github page updated, implementing feedback, and maintaining the site. 
+
+- **OneDrive manager: Gabriela**
+  - The OneDrive manager is responsible for keeping the group OneDrive organized, extending permissions.
 
 - **Website manager: Ava**
   - The website manager is responsible for keeping the lab website up to date with new members, recent and upcoming talks, papers, presentations, and awards. The website manager also ensures that posted materials (posters, papers, and recorded talks) have open access Zenodo pages and accessible DOI's.
