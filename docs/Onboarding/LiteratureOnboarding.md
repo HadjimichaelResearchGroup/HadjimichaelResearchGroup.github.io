@@ -5,8 +5,8 @@ Now that you’re part of the Hadjimichael lab group, we’ll get you up to spee
 ### Robust decision making and exploratory modeling
 - [Herman et al. (2015)](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000509)
 - [Moallemi et al. (2020)](https://doi.org/10.1016/j.gloenvcha.2020.102186)
-- [Groves and Lempert (2007)](10.1016/j.gloenvcha.2006.11.006)
-- [Quinn et al. (2017)](10.1016/j.envsoft.2017.02.017)
+- [Groves and Lempert (2007)](https://doi.org/10.1016/j.gloenvcha.2006.11.006)
+- [Quinn et al. (2017)](https://doi.org/10.1016/j.envsoft.2017.02.017)
 
 ### Risks in complex systems and Multisector Dynamics
 - [Reed et al. (2022)](https://doi.org/10.1029/2021EF002621)
