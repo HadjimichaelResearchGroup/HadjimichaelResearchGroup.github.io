@@ -36,21 +36,20 @@ Overleaf is an online collaborative LaTeX editor that integrates a rich set of f
 To manage references in LaTeX, you typically use a .bib file with BibTeX entries:
 
 1. Create a .bib file: In your Overleaf project, create a new file with a .bib extension.
-2. Add References: Add your references in BibTeX format.
-Example .bib entry:
+2. Add References: Add your references in BibTeX format. An example .bib entry looks like:
 
-@article{example2024,
-  author  = {Jose da Silva},
-  title   = {An Example Article},
-  journal = {Journal of Examples},
-  year    = {2024},
-  volume  = {1},
-  number  = {1},
-  pages   = {1-10},
-}
+> @article{example2024,
+>   author  = {Jose da Silva},
+>   title   = {An Example Article},
+>   journal = {Journal of Examples},
+>   year    = {2024},
+>   volume  = {1},
+>   number  = {1},
+>   pages   = {1-10},
+> }
 
-3. Cite References: Use the \cite{} command to cite references in your document.
-Example: According to \cite{example2024}, this is an example of a citation.
+3. Cite References: Use the `\cite{}` command to cite references in your document.
+Example: According to `\cite{example2024}`, this is an example of a citation.
 
 ### Useful Overleaf templates
 - **[PSU dissertation and Thesis templates](https://guides.libraries.psu.edu/latex/templates)**

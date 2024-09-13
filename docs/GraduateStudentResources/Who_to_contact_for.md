@@ -78,17 +78,20 @@ Need help with your PSU technology or downloading software on your PSU computer?
 #### **PhD Students**
 - Alexander Thames
   - ayt5134@psu.edu
-  - Office: 336 Deike
+  - Office: 434 Deike
 - Ava Spangler
   - aas6791@psu.edu
-  - Office: 236 Deike
+  - Office: 434 Deike
+- Ethan Heidtman
+  - efh5433@psu.edu
+  - Office: 434 Deike
 
 #### **MS Students** 
 - Enock Bunyon
   - eqb5508@psu.edu
-  - Office: 437 Deike
+  - Office: 434 Deike
 - Madison Hernandez
   - mjh7517@psu.edu
-  - Office: 303A Deike
+  - Office: 434 Deike
 
 
