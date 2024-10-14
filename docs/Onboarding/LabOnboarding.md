@@ -21,6 +21,7 @@ Complete these onboarding steps when you start work in the lab If you have any q
     - Meeting Calendar
     - Github
     - Powerpoint Slides
+- Read over the Department of Geoscience Policies and Procedures. You can find these in: **Graduate Student Resources > Policies, Procedures, and Forms**
 
 #### Slack
 We have a group Slack channel that we use to stay in touch, both on work and social activities. It is important to be active on Slack as this will be our primary mode of communication. We use Slack for quick day-to-day communication. If you need feedback from Antonia on something or have a document for review, sending it via Slack is often the fastest way to receive feedback.
