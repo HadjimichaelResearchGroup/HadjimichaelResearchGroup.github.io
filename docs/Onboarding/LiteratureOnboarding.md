@@ -3,6 +3,7 @@
 Now that you’re part of the Hadjimichael lab group, we’ll get you up to speed with the core methods, philosophies, and tenets which we integrate into our work. Our work falls under the broad umbrellas of climate impacts and adaptation. As scientists, we work to answer complex inter- and trans-disciplinary questions by applying concepts and methods from: robust decision making, uncertainty characterization, exploratory modeling, data analytics, and actionable science. Below, you’ll find some key papers to get you up to speed on these topics and their implementation.
 
 ### Robust decision making and exploratory modeling
+- [Marchau et al. (2019)](http://link.springer.com/10.1007/978-3-030-05252-2)
 - [Herman et al. (2015)](https://doi.org/10.1061/(ASCE)WR.1943-5452.0000509)
 - [Moallemi et al. (2020)](https://doi.org/10.1016/j.gloenvcha.2020.102186)
 - [Groves and Lempert (2007)](https://doi.org/10.1016/j.gloenvcha.2006.11.006)
