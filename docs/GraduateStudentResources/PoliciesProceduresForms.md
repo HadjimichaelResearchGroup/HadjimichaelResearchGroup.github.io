@@ -4,7 +4,6 @@
 ### Graduate Student Handbook
 The Graduate Student Handbook is a living document for what is expected of and for every Geoscience graduate student. It covers everything from acceptable courses, to timelines for graduation, to stipend information\*. Please read through this document at least once during your Onboarding, and ask about it in Issues (GEOSC 500)!
 * There are three levels of stipends: (A) Pre-Qualifying Exams; (B) Post-Qualifying and Pre-Comprehensive Exams; (C) Post-Comprehensive Exams. In terms of semester stipend amount: (A) < (B) < (C), on the order of a few hundred dollars. Confirm with your Terms of Offer each semester that you are on the correct level!
-* As of this writing (FA2024), the graduate stipend level terminology is in a state of flux and is therefore not presently included. By this time next year it should be available.
 
 ### Rover Approval Form
 PhD students are required to pass Qualifying Exams by their 3<sup>rd</sup> semester (although exigent circumstances like illness or pandemic could delay this to the 4<sup>th</sup> semester). To do so, they must request a Rover who will: (1) fairly adjudicate the exam by coordinating it and distributing materials, and; (2) establish with the student a second area of research for the committee to review. This second area of research should be "distinct" from the main topic they are presently researching, although what constitutes "distinct" depends on the individual Rover.
