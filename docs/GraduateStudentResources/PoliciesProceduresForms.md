@@ -3,7 +3,7 @@
 
 ### Graduate Student Handbook
 The Graduate Student Handbook is a living document for what is expected of and for every Geoscience graduate student. It covers everything from acceptable courses, to timelines for graduation, to stipend information\*. Please read through this document at least once during your Onboarding, and ask about it in Issues (GEOSC 500)!
-* There are three levels of stipends: (A) Pre-Qualifying Exams; (B) Post-Qualifying and Pre-Comprehensive Exams; (C) Post-Comprehensive Exams. In terms of semester stipend amount: (A) < (B) < (C), on the order of a few hundred dollars. Confirm with on your Terms of Offer each semester that you are in the correct level!
+* There are three levels of stipends: (A) Pre-Qualifying Exams; (B) Post-Qualifying and Pre-Comprehensive Exams; (C) Post-Comprehensive Exams. In terms of semester stipend amount: (A) < (B) < (C), on the order of a few hundred dollars. Confirm with your Terms of Offer each semester that you are on the correct level!
 * As of this writing (FA2024), the graduate stipend level terminology is in a state of flux and is therefore not presently included. By this time next year it should be available.
 
 ### Rover Approval Form
