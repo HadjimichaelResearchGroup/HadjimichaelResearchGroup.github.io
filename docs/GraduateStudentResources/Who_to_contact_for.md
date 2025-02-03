@@ -74,6 +74,9 @@ Need help with your PSU technology or downloading software on your PSU computer?
 - Gabriela Gesualdo
   - gqg5266@psu.edu
   - Office: 441 Deike
+- Abhijeet Abhishek
+  - abhi24@psu.edu
+  - Office: 535 Deike
 
 #### **PhD Students**
 - Alexander Thames
@@ -87,9 +90,6 @@ Need help with your PSU technology or downloading software on your PSU computer?
   - Office: 434 Deike
 
 #### **MS Students** 
-- Enock Bunyon
-  - eqb5508@psu.edu
-  - Office: 434 Deike
 - Madison Hernandez
   - mjh7517@psu.edu
   - Office: 434 Deike
