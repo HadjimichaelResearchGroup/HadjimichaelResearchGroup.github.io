@@ -17,14 +17,14 @@ parts:
     - file: Training/LaTeXandOverleaf.md
     - file: Training/Parallelization.md
     - file: Training/SubmittingJobs.md
-  - file: New Member Resources/NewMemberResources.md
+  - file: NewMemberResources/NewMemberResources.md
     sections:
-    - file: New Member Resources/ApplyingForDepartmentFunds.md
-    - file: New Member Resources/BudgetingReimbursementExpensing.md
-    - file: New Member Resources/Courses.md
-    - file: New Member Resources/Housing.md
-    - file: New Member Resources/PoliciesProceduresForms.md
-    - file: New Member Resources/Who_to_contact_for.md    
+    - file: NewMemberResources/ApplyingForDepartmentFunds.md
+    - file: NewMemberResources/BudgetingReimbursementExpensing.md
+    - file: NewMemberResources/Courses.md
+    - file: NewMemberResources/Housing.md
+    - file: NewMemberResources/PoliciesProceduresForms.md
+    - file: NewMemberResources/Who_to_contact_for.md    
   - file: Contributing/Contributing.md
     sections:
     - file: Contributing/Instructions.md
