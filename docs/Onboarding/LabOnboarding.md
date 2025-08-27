@@ -26,25 +26,25 @@ Complete these onboarding steps when you start work in the lab If you have any q
 #### Slack
 We have a group Slack channel that we use to stay in touch, both on work and social activities. It is important to be active on Slack as this will be our primary mode of communication. We use Slack for quick day-to-day communication. If you need feedback from Antonia on something or have a document for review, sending it via Slack is often the fastest way to receive feedback.
 
-#### OneDrive [Here](https://pennstateoffice365-my.sharepoint.com/personal/azh5924_psu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fazh5924%5Fpsu%5Fedu%2FDocuments%2FHadjimichael%20Group%20Materials&FolderCTID=0x0120008952A82476B1E345A8ED3169A878FA45&view=0)
+#### [OneDrive](https://pennstateoffice365-my.sharepoint.com/personal/azh5924_psu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fazh5924%5Fpsu%5Fedu%2FDocuments%2FHadjimichael%20Group%20Materials&FolderCTID=0x0120008952A82476B1E345A8ED3169A878FA45&view=0)
 The OneDrive is a shared drive where all important lab documents are kept. You can share documents with Antonia here, keep your weekly meeting slides here, and access past trainings. If you are an overachiever, feel free to start any of the trainings in the OneDrive. In particular, we recommend the Python and Pycharm training, and the Intro to Github trainings if you are not already familliar.
 
-#### Group Outlook Calendar 
+#### [Group Outlook Calendar](https://mail.google.com/) 
 The calendar is where we track when lab members will be out of town or working remotely. We also track when Antonia is gone. This calendar will be shared to your outlook- please reach out if you have not received it.
 
-#### Group Meeting Calendar [Here](https://pennstateoffice365-my.sharepoint.com/:x:/r/personal/azh5924_psu_edu/_layouts/15/doc2.aspx?sourcedoc=%7BBD2A615C-4417-45CB-9EC6-769ABC892C5C%7D&file=Summer%202024%20Discussion%20Topics.xlsx&action=default&mobileredirect=true)
+#### [Group Meeting Calendar](https://pennstateoffice365-my.sharepoint.com/:x:/r/personal/azh5924_psu_edu/_layouts/15/doc2.aspx?sourcedoc=%7BBD2A615C-4417-45CB-9EC6-769ABC892C5C%7D&file=Summer%202024%20Discussion%20Topics.xlsx&action=default&mobileredirect=true)
 The lab meeting calendar helps us keep track of what will be discussed in the weekly lab meetings. We also list discussion ideas and brief notes about who is leading the meetings.
 
-#### Github [Here](https://hadjimichaelresearchgroup.github.io/intro.html)
+#### [Github](https://hadjimichaelresearchgroup.github.io/intro.html)
 Github is where we maintain the lab manual. If you aren’t yet familiar with GitHub, we have trainings to help you learn. Everyone will help keep the lab manual updated.
 
-#### Lab Slides [Here](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4200626B-021A-4A13-B141-B5F0DFAF9176%7D&file=Carla_update_21_2_2024.pptx&action=edit&mobileredirect=true)
+#### [Lab Slides](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B4200626B-021A-4A13-B141-B5F0DFAF9176%7D&file=Carla_update_21_2_2024.pptx&action=edit&mobileredirect=true)
 In the Hadjimichael lab, we believe strongly that visual communication tools are an important part of being an effective scientist. We strive to have our work look and feel clean, organized, and professional. As such, we have a slides template that helps share out cohesive identity. Additionally, this makes sharing and reusing slides easier.
 
 ### Lab Administration and Roles
 All members of the lab are expected to pitch in to support the function of our lab activities and infrastructure. Formal lab roles may include the following and assignments will be made and updated here on an annual basis. However, this Lab Manual is a living document and everyone must pitch in to keep it up to date.
 
-- **Github manager: Alex**
+- **Github manager: Ethan**
   - The Github manager is responsible for keeping the github page updated, implementing feedback, and maintaining the site. 
 
 - **OneDrive manager: Gabriela**
@@ -53,13 +53,13 @@ All members of the lab are expected to pitch in to support the function of our l
 - **Website manager: Ava**
   - The website manager is responsible for keeping the lab website up to date with new members, recent and upcoming talks, papers, presentations, and awards. The website manager also ensures that posted materials (posters, papers, and recorded talks) have open access Zenodo pages and accessible DOI's.
 
-- **Social event coordinator: Enock**
+- **Social event coordinator: Tsunami**
   - The social event coordinator organizes fun lab activities and special events.
     
-- **Equipment manager: Enock**
+- **Equipment and p-card manager: Abhijeet**
   - The equipment manager tracks what equipment each lab member has and what equipment is available for use.
 
-- **Zoomer: Maddie**
+- **Zoomer: Abhijeet**
   - The Zoom setup coordinator is responsible for coming to the lab meeting room early to set up any necessary Zoom equipment. They also send out When to Meet polls to determine group meeting times.
 
 ### Equipment and Office Space
