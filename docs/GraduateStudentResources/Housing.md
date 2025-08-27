@@ -20,7 +20,6 @@ Finding available housing on places like zillow, apartments.com, or just googlin
 You can also try to find a house/apartment along the bus routes especially if you don't have a car.
 
 *A few cautionary words to the wise:*
-Try to avoid any properties managed/owned by Associated Realty Property Management (ARPM) or Continental Real Estate Management (CREM)
 When renting, it's best to get a virtual or in-person tour in real time if possible (to make sure the property is real) If something seems like a scam, you can reach out to any current grad students in the Hadjimichael group to double-check! Also, before you sign a lease, hop on Google Maps and check if you will be neighbors with a frat house or if you'll have any good grocery stores nearby!
 ### Finding Roommates
 

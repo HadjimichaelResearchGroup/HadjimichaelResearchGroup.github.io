@@ -40,7 +40,7 @@ The lab meeting calendar helps us keep track of what will be discussed in the we
 #### [GitHub](https://hadjimichaelresearchgroup.github.io/intro.html)
 GitHub is where we maintain the lab manual. If you aren't yet familiar with GitHub, we have trainings to help you learn. Everyone will help keep the lab manual updated.
 
-#### [Lab Slides Template](https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Templates_and_Branding?csf=1&web=1&e=XEy7B)
+#### [Lab Slides](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Templates_and_Branding/HadjimichaelGroupPresentationTemplate_2025.pptx?d=w6ae193347b9b489c9d6a7d52506dafd2&csf=1&web=1&e=Jmuj9P)
 In the Hadjimichael lab, we believe strongly that visual communication tools are an important part of being an effective scientist. We strive to have our work look and feel clean, organized, and professional. As such, we have a slides template that helps share out cohesive identity. Additionally, this makes sharing and reusing slides easier.
 
 ### Lab Administration and Roles
