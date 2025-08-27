@@ -34,10 +34,10 @@ The OneDrive is a shared drive where all important lab documents are kept. You c
 #### Group Gmail Calendar 
 The calendar is where we track when lab members will be out of town or working remotely. We also track when Antonia is gone. For whatever reason Outlook has a hard time syncing a communal calendar, so access to the communal calendar is through Gmail. If you don't know the login and password for the calendar please ask a group member!
 
-#### [Group Meeting Calendar](https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Management/Group%20Meeting%20Calendar?csf=1&web=1&e=sXn5VV)
+#### [Group Meeting Calendar](https://pennstateoffice365-my.sharepoint.com/:f:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Management/GroupMeeting_Calendar?csf=1&web=1&e=Pii0zF)
 The lab meeting calendar helps us keep track of what will be discussed in the weekly lab meetings. We also list discussion ideas and brief notes about who is leading the meetings.
 
-#### [GitHub](https://hadjimichaelresearchgroup.github.io/intro.html)
+#### [GitHub](https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io)
 GitHub is where we maintain the lab manual. If you aren't yet familiar with GitHub, we have trainings to help you learn. Everyone will help keep the lab manual updated.
 
 #### [Lab Slides](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Templates_and_Branding/HadjimichaelGroupPresentationTemplate_2025.pptx?d=w6ae193347b9b489c9d6a7d52506dafd2&csf=1&web=1&e=Jmuj9P)
