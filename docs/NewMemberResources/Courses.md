@@ -5,7 +5,7 @@ Each graduate student in the Geosciences department is required to take at least
 ### Required Courses
 
 | Requirement | Course Number | Course Name | Description |
-|--------------|--------------|--------------|-------------------------------|
+|-----------------|-----------------|-----------------|----------------------|
 | **Geosciences Breadth** | GEOSC 500 | Issues in Geosciences | Class required fall semester for all first years. Learn how to write a proposal, different topics in the geosciences, etc. |
 | **Disciplinary Fundamentals** | GEOSC 452 | Hydrogeology | Recommended course for this requirement. Seems to be offered each semester. Focus on groundwater processes. |
 | **Data Gathering & Interpretation** | CE 561 | Surface Hydrology | Recommended course, but need to petition to grad student head to have count for requirement. Offered in spring. Focus on interactions of precipitation, discharge, water quality, etc. Some practical applications and data gathering. |
@@ -27,7 +27,7 @@ Each graduate student in the Geosciences department is required to take at least
 ### Other Useful Classes
 
 | Course Number | Course Name | Description |
-|----------------|----------------|-----------------------------------------|
+|------------------|------------------|------------------------------------|
 | GEOSC 497 | Special Topics: Data Visualization | Offered in spring. Antonia's class teaching theories and best practices for data, presentations, infographics, posters, etc. Utalizes Python and Adobe Illustrator. Highly recommend. |
 | EMSC 460 | Environmental Data Analytics | Offered in fall. Class teaching machine learning algorithms and practices including linear algebra, optimization, classification, artificial and deep neural networks, etc. |
 | ABE /CE 597 | Special Topics: Applied Ecohydrological Modeling | Offered in fall. Utalizes SWAT model and R to understand how land use change and climate change impact watersheds. Difficult without prior knowledge. |
@@ -42,5 +42,6 @@ Each graduate student in the Geosciences department is required to take at least
 | CE 551 | Random Processes in Hydrologic Systems | Hydrologic system analysis, simulation, design, model formulation, parameter estimation, impact, and assessment. |
 | CE 566 | Uncertainty & Reliability in Civil Engineering | Offered in fall. Intro to reliability-based methods of analysis using statistics, uncertainty analysis, etc in civil engineering. |
 | CE 587 | Computational Ecohydrology | Offered in fall. Mutual interactions between hydrological, biogeochemical, and ecological processes. |
+| EME 524 | Machine Learning for Energy and Mineral Engineering Problems | Offered in fall. Covers the application of machine learning techniques to energy and mineral engineering problems. Covers regression, classification, design optimization, and risk analysis. Programming language is R. |
 
 *note: Each full time student needs 9-12 credits each semester, can include classes and/or research.* *Most classes are 3 credits (excluding seminars/colloquiums)*
