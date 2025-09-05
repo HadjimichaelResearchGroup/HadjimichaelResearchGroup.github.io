@@ -20,6 +20,16 @@ You should [click this link](https://www.icds.psu.edu/roar-collab-user-guide/) t
 
 ### What Do I Do After I Have an Account?
 
-You should [click this link](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Joining%20and%20Using%20the%20Cluster/ClusterTraining.pptx?d=w9bc7a237922341b98927cc4d7dd098b1&csf=1&web=1&e=GSHOEX) to be taken to a PowerPoint presentation detailing how to: \* interface with the cluster \* navigate the cluster's Linux OS \* move your files to/from the cluster \* schedule simple interactive and batch jobs \* set up python virtual environments
+You should [click this link](https://pennstateoffice365-my.sharepoint.com/:p:/r/personal/azh5924_psu_edu/Documents/Hadjimichael%20Group%20Materials/Training/Joining%20and%20Using%20the%20Cluster/ClusterTraining.pptx?d=w9bc7a237922341b98927cc4d7dd098b1&csf=1&web=1&e=GSHOEX) to be taken to a PowerPoint presentation detailing how to:
+
+-   interface with the cluster
+
+-   navigate the cluster's Linux OS
+
+-   move your files to/from the cluster
+
+-   schedule simple interactive and batch jobs
+
+-   set up python virtual environments
 
 *Note: you can only access this presentation if you have Penn State login credentials.*
