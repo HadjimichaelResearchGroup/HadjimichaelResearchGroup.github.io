@@ -36,7 +36,7 @@ Note that students are **automatically enrolled** in SHIP, and **must choose to 
 
 ### [Penn State Volunteer Income Tax Assistance (VITA)](http://www.psuvita.org)
 
-Taxes as a graduate student or postdoc can be tricky to navigate. Some new members come in with grants, fellowships, or are paid through the department. For international students in particular, tax situations can be confusing. Luckily, Penn State offers a **FREE** service to aid PSU students and employees during tax season. In the United States, taxes are due on April 15th of every year, and so PSU VITA begins to offer services beginning at the end of January.
+Taxes as a graduate student or postdoc can be tricky to navigate. Most new members come in and are paid for by Antonia as part of a project, but some come in with grants and fellowships. For international students in particular, tax situations can be confusing. Luckily, Penn State offers a **FREE** service to aid PSU students and employees during tax season. In the United States, taxes are due on April 15th of every year, and so PSU VITA begins to offer services beginning at the end of January.
 
 The volunteers at PSU VITA are certified by the US Internal Revenue Service (IRS) to provide these services, and are located in the **Wagner Building, room 216**.
 

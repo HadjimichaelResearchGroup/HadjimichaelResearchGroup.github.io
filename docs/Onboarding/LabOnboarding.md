@@ -24,7 +24,7 @@ Complete these onboarding steps when you start work in the lab:
     -   Meeting Calendar
     -   Github
     -   Powerpoint Slides
--   Read over the Department of Geoscience Policies and Procedures. You can find these in: **Graduate Student Resources \> Policies, Procedures, and Forms**
+-   Read over the Department of Geoscience Policies and Procedures. You can find these in: **New Member Resources \> Policies, Procedures, and Forms**
 
 If you have any questions during your onboarding process, please reach out to an already-onboarded lab member!
 
@@ -74,11 +74,12 @@ All members of the lab are expected to pitch in to support the function of our l
 ### Equipment and Office Space
 
 -   Office Space: Every graduate student will be assigned a desk in an office in Deike. You will recieve a key to that office, and a key to the Deike mail room. It is important to always lock the office door when the office is empty, as your office mates may have left their laptop or other precious items in the office. If you would like to change offices, talk with other members of the lab. Desks usually open up at the end of the Spring semester.
+    -   Postdoc offices are separate form the rest of the group, as the department usually groups a handful of postdocs together
 -   Equipment: Everyone in the research group must have a functional computer capable of performing intensive computational modeling work. If you do not have a computer which meets that criteria, please reach out to Antonia and she will arrange to provide you with a working computer - please don’t be shy about this! If you do already have a computer you can continue to use, that will help the lab’s resources go farther.
 
 ### Weekly Individual Meetings
 
-At the beginning of each semester, we will set a time for weekly individual meetings. Meetings are typically 45 minutes, once a week. Early-stage PhD students should keep these meetings every week. More senior lab members can feel free to cancel meetings, but we should touch base at least every other week. Individual Meetings are a tool to help you to make productive use of your weekly meetings with Antonia. **You should plan to create a slide deck that you will use in the meeting to facilitate conversation about items you want feedback on.** These slides serve as a project management tool that allows you and Antonia to align and keep track of what you are working on, and agreed next steps.
+At the beginning of each semester, we will set a time for weekly individual meetings. Meetings are typically 45 minutes, once a week. Early-stage PhD students should keep these meetings every week. More senior lab members can feel free to cancel meetings, but we should touch base at least every other week. Individual meetings are a tool to help you to make productive use of your weekly meetings with Antonia. **You should plan to create a slide deck that you will use in the meeting to facilitate conversation about items you want feedback on.** These slides serve as a project management tool that allows you and Antonia to align and keep track of what you are working on, and agreed next steps.
 
 The slides may include: - A meeting agenda - Updates on what you worked on last week, including the status of any items you agree to work on in your previous meeting - Slides on research content (or professional development content) that you want feedback on. For example, if you want feedback on choosing a research method, you should use your report to give Antonia background on: your research question, the status of current research design decisions, the specific methodological decision you want feedback on, proposed options you are considering, the pros and cons of each option etc. - Proposed next steps for the following week
 
@@ -86,7 +87,15 @@ While your report does not need to be a polished presentation, it should be easy
 
 ### Weekly Lab Meetings
 
-Weekly lab meetings (1 hour each) are meant to be a forum for us to learn collaboratively. In these weekly lab meetings, we rotate between 4 formats. - **Paper Discussions:** One person will select a broadly applicable paper for everyone to read. This person will facilitate the discussion and guide the group in learning about the topic. - **Project updates:** Each person will contribute one or two slides about the status of their project to a combined deck. We will go around the room and remind everyone of our project purpose, and share where things currently stand. The slides template is here. - **Trainings:** In these meetings, one or more lab members will develop a training session on a topic of technical importance to our lab. The training session will help bring all members up to speed on typical computational, software, or data management tools which we commonly use. - **Research Talks:** In these meetings, one person will give a detailed presentation of their research and current progress. They will then receive feedback from the rest of the group. Each lab member is expected to present at least once a year, with more senior PhD students and postdocs presenting 2-3 times per year.
+Weekly lab meetings (1 hour each) are meant to be a forum for us to learn collaboratively. In these weekly lab meetings, we rotate between 4 formats.
+
+\- **Paper Discussions:** One or two people will select a broadly applicable paper for everyone to read. They will facilitate the discussion and guide the group in learning about the topic.
+
+\- **Project updates:** Each person will contribute one or two slides about the status of their project to a combined deck. We will go around the room and remind everyone of our project purpose, and share where things currently stand. The slides template is [here](Templates_and_Branding).
+
+\- **Trainings:** In these meetings, one or more lab members will develop a training session on a topic of technical importance to our lab. The training session will help bring all members up to speed on typical computational, software, or data management tools which we commonly use.
+
+\- **Research Talks:** In these meetings, one person will give a detailed presentation of their research and current progress. They will then receive feedback from the rest of the group. Each lab member is expected to present at least once a year, with more senior PhD students and postdocs presenting 2-3 times per year.
 
 In our weekly meetings, students from other labs and colleges are invited to join, and many come regularly! They broaden our group of research peers, strengthen our science communication skills, and help us learn about topics outside of our scope.
 
@@ -104,4 +113,4 @@ PhD students and postdocs are encouraged to attend **1-2 conferences per year,**
 
 ### References
 
-This lab manual borrows heavily from excellent manuals created by Sarah Fletcher, Morgan Edwards, Meagan Mauter, Casey terHorst, Alex Konings, and Mariam Aly .
+This lab manual borrows heavily from excellent manuals created by Sarah Fletcher, Morgan Edwards, Meagan Mauter, Casey terHorst, Alex Konings, and Mariam Aly.

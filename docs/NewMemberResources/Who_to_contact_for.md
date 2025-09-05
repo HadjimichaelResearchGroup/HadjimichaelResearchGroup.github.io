@@ -60,7 +60,27 @@
 
 ### *Resources*
 
-Need help with your PSU technology or downloading software on your PSU computer? - Email: helpdesk\@ems.psu.edu - Phone: 814-865-4357 - PC/Windows - Name: Zachary McClure - Email: zsm5133\@psu.edu - Office: 226 Deike - Mac/macOS - Name: Brandon Brambaugh - Email: bmb6053\@psu.edu
+Need help with your PSU technology or downloading software on your PSU computer?
+
+**EMS Help Desk**
+
+-   Email: helpdesk\@ems.psu.edu
+
+-   Phone: 814-865-4357
+
+**PC/Windows**
+
+-   Name: Zachary McClure
+
+-   Email: zsm5133\@psu.edu
+
+-   Office: 226 Deike
+
+**Mac/MacOS**
+
+-   Name: Brandon Brambaugh
+
+-   Email: bmb6053\@psu.edu
 
 ### *ROAR and ROAR Collab*
 
