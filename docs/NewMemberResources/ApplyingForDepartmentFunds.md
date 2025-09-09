@@ -8,7 +8,7 @@ Each semester, the Penn State Department of Geosciences disburses scholarships, 
 
 -   Your graduate GPA
 
--    A description and/or significance statement for why you are applying
+-   A description and/or significance statement for why you are applying
 
 -   Line item requests for the amount you are asking for from the pool of funds
 
