@@ -1,4 +1,4 @@
-# Hadjimichael Research Group lab manual!
+# Hadjimichael Research Group Lab Manual
 
 ![Hadjimichael Research Group](Images/HadjmichaelGroup_Fall2025.jpg)
 

@@ -14,19 +14,17 @@ Graduate student pay information has often been difficult to find or understand.
 
     -   A half time graduate student is expected to contribute 20 hours per week to research. The remaining 20 hours per week go toward 9-12 credits of courses per semester
 
--   You will sign a contract per semester (and summer) that you are here. That contract will detail your pay grade **(currently Grade 14, as of Fall 2025)** and the time period of your appointment, and will specify the total stipend you will receive in that time
+-   You will sign a contract per semester (and summer) that you are here. That contract will detail your pay grade, which varies depending on your degree progress. In our group/department, they vary from **grades 14 to 16**. Masters students and early PhD students receive **grade 14**, post-qualifying exam PhD students receive **grade 15**, and post-comprehensive exam PhD students receive **grade 16**. Your contract will reflect your standing and expected stipend during the time of the contract.
 
--   As shown in the chart below, **summer pay differs from in-semester pay rates**
+-   **Summer pay differs from in-semester pay rates**
 
-Shown below are the pay grades for graduate students on a half time (20 hour / week) appointment.
-
-![](GradStudentPayGrades_HalfTime_25:26.png)
+For more up-to-date information on graduate student pay grades and stipends, visit this [link](https://guru.psu.edu/resources/rates-and-schedules/stipends-for-graduate-assistants)
 
 ### [Postdoctoral Associate Pay](https://guru.psu.edu/resources/rates-and-schedules/stipends-for-postdoctoral-appointments?range=20242025&submit=Submit)
 
-New postdoctoral associates must receive a minimum annual salary of \$61,008.00 (\$5,084.00 / month). Shown below are the pay grades for postdoctoral associates depending on their experience level. For more information, visit the link or contact the PSU Office of Postdoctoral Affairs.
+Postdoctoral Associates in our group receive an annual stipend in line with the NIH scale, which is adjusted with years of experience.
 
-![](PostDocPayGrades_FY2026.png)
+For up-to-date information regarding Postdoctoral Associate stipends, visit this [link](https://www.niaid.nih.gov/grants-contracts/salary-cap-stipends) or contact the PSU Office of Postdoctoral Affairs.
 
 ### Penn State Health Insurance: [Student Health Insurance Plan (SHIP)](https://studentaffairs.psu.edu/health-insurance/graduate-assistant-fellows-and-trainees)
 

@@ -18,7 +18,7 @@ Now that you're part of the Hadjimichael lab group, we'll get you up to speed wi
 
 ### Uncertainty Characterization and Sensitivity Analysis
 - [Pianosi et al. (2016)](http://dx.doi.org/10.1016/j.envsoft.2016.02.008)
-- [Reed et al. (2022)](https://doi.org/10.5281/ZENODO.6110623)
+- [Reed et al. (2022)](https://uc-ebook.org))
 - [Hadjimichael et al. (2020)](https://doi.org/10.1029/2020WR028079)
   
 ### Community-Engaged Science and Equity
