@@ -1,4 +1,0 @@
-![](../Images/Deike.jpg)
-
-```{tableofcontents}
-```
