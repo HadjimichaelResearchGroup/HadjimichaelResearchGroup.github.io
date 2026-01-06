@@ -1,7 +1,6 @@
 ---
 title: Onboarding
-hide-nav: true
 hide-toc: true
-prev_page: null
-next_page: null
 ---
+
+The next section introduces some of the key expectations for each member of the Hadjimichael group, as well as important information about salaries and getting paid.
