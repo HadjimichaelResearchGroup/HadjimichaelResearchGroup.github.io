@@ -1,7 +1,8 @@
 ---
 title: Contributing to this Manual
-hide-nav: true
 hide-toc: true
-prev_page: null
-next_page: null
 ---
+
+![](../Images/Deike.jpg)
+
+The next page covers the basics of contributing to this lab manual with GitHub.

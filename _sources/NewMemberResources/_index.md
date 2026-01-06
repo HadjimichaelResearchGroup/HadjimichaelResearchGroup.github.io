@@ -1,7 +1,6 @@
 ---
 title: New Member Resources
-hide-nav: true
 hide-toc: true
-prev_page: null
-next_page: null
 ---
+
+The next section contiains important information about getting settled as a new member in the Department of Geosciences, State College, and the Hadjimichael Group.
