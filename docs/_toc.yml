@@ -4,7 +4,6 @@ root: intro.md
 parts:
   - caption: Onboarding
     chapters:
-      - file: Onboarding/_index.md
       - file: Onboarding/LabOnboarding.md
       - file: Onboarding/LiteratureOnboarding.md
       - file: Onboarding/SoftwareOnboarding.md
@@ -12,7 +11,6 @@ parts:
 
   - caption: Training
     chapters:
-      - file: Training/_index.md
       - file: Training/GettingStartedWithROARCollab.md
       - file: Training/LaTeXandOverleaf.md
       - file: Training/Parallelization.md
@@ -21,7 +19,6 @@ parts:
 
   - caption: New Member Resources
     chapters:
-      - file: NewMemberResources/_index.md
       - file: NewMemberResources/ApplyingForDepartmentFunds.md
       - file: NewMemberResources/BudgetingReimbursementExpensing.md
       - file: NewMemberResources/Courses.md
@@ -31,5 +28,4 @@ parts:
 
   - caption: Contributing To This Manual
     chapters:
-      - file: Contributing/_index.md
       - file: Contributing/Instructions.md
