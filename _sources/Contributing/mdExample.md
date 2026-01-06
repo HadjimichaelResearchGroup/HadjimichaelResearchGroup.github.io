@@ -1,4 +1,4 @@
-# Markdown example
+## Markdown example
 This is an example page using just markdown
 
 ### Subsection 1
@@ -19,4 +19,4 @@ e = mc^2
 
 And here comes a image!
 
-![](Logo.png "Hadjimichael Logo")
+![](../Images/Logo.png "Hadjimichael Logo")

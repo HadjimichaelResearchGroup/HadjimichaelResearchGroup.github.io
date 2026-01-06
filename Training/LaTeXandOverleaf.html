@@ -1,0 +1,684 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>LaTeX and Overleaf for Scientific Writing &#8212; Hadjimichael Group Lab Manual</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'Training/LaTeXandOverleaf';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Parallelization" href="Parallelization.html" />
+    <link rel="prev" title="Getting Started with ROAR Collab" href="GettingStartedWithROARCollab.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/Logo.png" class="logo__image only-light" alt="Hadjimichael Group Lab Manual - Home"/>
+    <script>document.write(`<img src="../_static/Logo.png" class="logo__image only-dark" alt="Hadjimichael Group Lab Manual - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Hadjimichael Research Group Lab Manual
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Onboarding</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../Onboarding/Onboarding.html">Onboarding</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../Onboarding/LabOnboarding.html">Welcome to the Hadjimichael Group</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../Onboarding/LiteratureOnboarding.html">Literature Onboarding</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../Onboarding/SoftwareOnboarding.html">Software Onboarding</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../Onboarding/SalaryTransparency.html">Salary Transparency</a></li>
+</ul>
+</details></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Training</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="Training.html">Training</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="GettingStartedWithROARCollab.html">Getting Started with ROAR Collab</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">LaTeX and Overleaf for Scientific Writing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="Parallelization.html">Parallelization</a></li>
+<li class="toctree-l2"><a class="reference internal" href="SubmittingJobs.html">Submitting Jobs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="GitAndGithub.html">Git and Github Training</a></li>
+</ul>
+</details></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">New Member Resources</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../NewMemberResources/NewMemberResources.html">New Member Resources</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../NewMemberResources/ApplyingForDepartmentFunds.html">Applying for Department Funds</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../NewMemberResources/BudgetingReimbursementExpensing.html">Budgeting, Reimbursements, and Expensing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../NewMemberResources/Courses.html">Course List</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../NewMemberResources/Housing.html">Housing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../NewMemberResources/PoliciesProceduresForms.html">Policies, Procedures, and Forms</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../NewMemberResources/Who_to_contact_for.html">Who-to-contact for …</a></li>
+</ul>
+</details></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Contributing</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../Contributing/Contributing.html">Contributing to this lab manual</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../Contributing/Instructions.html">Instructions on contributing to the lab manual</a></li>
+</ul>
+</details></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/HadjimichaelResearchGroup/HadjimichaelResearchGroup.github.io/issues/new?title=Issue%20on%20page%20%2FTraining/LaTeXandOverleaf.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/Training/LaTeXandOverleaf.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>LaTeX and Overleaf for Scientific Writing</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-latex">What is LaTeX?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-features-of-latex">Key Features of LaTeX</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-overleaf">What is Overleaf?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-features-of-overleaf">Key Features of Overleaf</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#getting-started-with-latex-on-overleaf">Getting Started with LaTeX on Overleaf</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#creating-a-new-document">Creating a New Document</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#managing-references">Managing references</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#useful-overleaf-templates">Useful Overleaf templates</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#collaboration-on-overleaf">Collaboration on Overleaf</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#exporting-and-downloading">Exporting and Downloading</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#best-practices">Best Practices</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#resources">Resources:</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="latex-and-overleaf-for-scientific-writing">
+<h1>LaTeX and Overleaf for Scientific Writing<a class="headerlink" href="#latex-and-overleaf-for-scientific-writing" title="Link to this heading">#</a></h1>
+<section id="what-is-latex">
+<h2>What is LaTeX?<a class="headerlink" href="#what-is-latex" title="Link to this heading">#</a></h2>
+<p>LaTeX (pronounced “Lay-tech” or “Lah-tech”) is a typesetting system that includes features designed for the production of technical and scientific documentation.</p>
+<section id="key-features-of-latex">
+<h3>Key Features of LaTeX<a class="headerlink" href="#key-features-of-latex" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Mathematical Typesetting:</strong> LaTeX is renowned for its ability to beautifully typeset complex mathematical equations.</p></li>
+<li><p><strong>References and Citations:</strong> It automates the process of managing references and citations.</p></li>
+<li><p><strong>Cross-referencing:</strong> Easily reference figures, tables, and sections within the document.</p></li>
+<li><p><strong>Customizability:</strong> Offers extensive customization options for document formatting.</p></li>
+</ul>
+</section>
+</section>
+<section id="what-is-overleaf">
+<h2>What is Overleaf?<a class="headerlink" href="#what-is-overleaf" title="Link to this heading">#</a></h2>
+<p>Overleaf is an online collaborative LaTeX editor that integrates a rich set of features to facilitate the writing and editing of LaTeX documents. It provides a user-friendly interface for editing LaTeX, real-time collaboration, and a range of templates to get you started.</p>
+<section id="key-features-of-overleaf">
+<h3>Key Features of Overleaf<a class="headerlink" href="#key-features-of-overleaf" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Real-time Collaboration:</strong> Multiple authors can work on a document simultaneously, seeing each other’s changes in real-time.</p></li>
+<li><p><strong>Templates:</strong> Overleaf offers a vast library of templates for different types of documents, including academic papers, theses, and presentations.</p></li>
+<li><p><strong>Version Control:</strong> Track changes and revert to previous versions of the document.</p></li>
+<li><p><strong>Integrated Preview:</strong> View a real-time preview of your document as you write.</p></li>
+<li><p><strong>Bibliography Management:</strong> Easily manage references with built-in support for BibTeX and other bibliographic tools.</p></li>
+<li><p><strong>Access Anywhere:</strong> Since Overleaf is a web-based platform, you can access your documents from any device with an internet connection.</p></li>
+</ul>
+</section>
+</section>
+<section id="getting-started-with-latex-on-overleaf">
+<h2>Getting Started with LaTeX on Overleaf<a class="headerlink" href="#getting-started-with-latex-on-overleaf" title="Link to this heading">#</a></h2>
+<section id="creating-a-new-document">
+<h3>Creating a New Document<a class="headerlink" href="#creating-a-new-document" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p><strong>Sign Up:</strong> Create an account on <a class="reference external" href="https://www.overleaf.com/">Overleaf</a>.</p></li>
+<li><p><strong>New Project:</strong> Click on “New Project” and choose a blank document or a template.</p></li>
+<li><p><strong>Edit:</strong> Start editing your document using the LaTeX syntax in the editor on the left side of the screen.</p></li>
+</ol>
+</section>
+<section id="managing-references">
+<h3>Managing references<a class="headerlink" href="#managing-references" title="Link to this heading">#</a></h3>
+<p>To manage references in LaTeX, you typically use a .bib file with BibTeX entries:</p>
+<ol class="arabic simple">
+<li><p>Create a .bib file: In your Overleaf project, create a new file with a .bib extension.</p></li>
+<li><p>Add References: Add your references in BibTeX format. An example .bib entry looks like:</p></li>
+</ol>
+<blockquote>
+<div><p>&#64;article{example2024,
+author  = {Jose da Silva},
+title   = {An Example Article},
+journal = {Journal of Examples},
+year    = {2024},
+volume  = {1},
+number  = {1},
+pages   = {1-10},
+}</p>
+</div></blockquote>
+<ol class="arabic simple" start="3">
+<li><p>Cite References: Use the <code class="docutils literal notranslate"><span class="pre">\cite{}</span></code> command to cite references in your document.
+Example: According to <code class="docutils literal notranslate"><span class="pre">\cite{example2024}</span></code>, this is an example of a citation.</p></li>
+</ol>
+</section>
+<section id="useful-overleaf-templates">
+<h3>Useful Overleaf templates<a class="headerlink" href="#useful-overleaf-templates" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong><a class="reference external" href="https://guides.libraries.psu.edu/latex/templates">PSU dissertation and Thesis templates</a></strong></p></li>
+<li><p><strong><a class="reference external" href="https://www.overleaf.com/gallery/tagged/agu-official">AGU journal templates</a></strong></p></li>
+</ul>
+</section>
+<section id="collaboration-on-overleaf">
+<h3>Collaboration on Overleaf<a class="headerlink" href="#collaboration-on-overleaf" title="Link to this heading">#</a></h3>
+<p>To collaborate on a document in Overleaf:</p>
+<ol class="arabic simple">
+<li><p>Share Link: Click on the “Share” button in the top right corner and share the link with collaborators.</p></li>
+<li><p>Collaborate: Collaborators can edit the document simultaneously, and changes are synced in real-time.</p></li>
+<li><p>Commenting: Use the commenting feature to leave feedback or discuss specific parts of the document.</p></li>
+</ol>
+</section>
+<section id="exporting-and-downloading">
+<h3>Exporting and Downloading<a class="headerlink" href="#exporting-and-downloading" title="Link to this heading">#</a></h3>
+<p>To export or download your document from Overleaf:</p>
+<ol class="arabic simple">
+<li><p><strong>Download PDF:</strong> Click on the “Download” button to download a PDF version of your document.</p></li>
+<li><p><strong>Export Source:</strong> You can also export the source files in .zip format for offline editing.</p></li>
+</ol>
+</section>
+<section id="best-practices">
+<h3>Best Practices<a class="headerlink" href="#best-practices" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Use Templates:</strong> Start with a template to save time and ensure proper formatting.</p></li>
+<li><p><strong>Version Control:</strong> Use the version history feature to track changes and revert to previous versions.</p></li>
+<li><p><strong>Organize Files:</strong> Keep your project organized with folders for images, bibliography, and other resources.</p></li>
+</ul>
+</section>
+<section id="resources">
+<h3>Resources:<a class="headerlink" href="#resources" title="Link to this heading">#</a></h3>
+<p><a class="reference external" href="https://www.overleaf.com/learn">Overleaf Documentation</a>
+<a class="reference external" href="https://www.latex-project.org/">LaTeX Project</a></p>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./Training"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="GettingStartedWithROARCollab.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Getting Started with ROAR Collab</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="Parallelization.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Parallelization</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-latex">What is LaTeX?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-features-of-latex">Key Features of LaTeX</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-is-overleaf">What is Overleaf?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-features-of-overleaf">Key Features of Overleaf</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#getting-started-with-latex-on-overleaf">Getting Started with LaTeX on Overleaf</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#creating-a-new-document">Creating a New Document</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#managing-references">Managing references</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#useful-overleaf-templates">Useful Overleaf templates</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#collaboration-on-overleaf">Collaboration on Overleaf</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#exporting-and-downloading">Exporting and Downloading</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#best-practices">Best Practices</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#resources">Resources:</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By The Hadjimichael Research Group at Penn State
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
