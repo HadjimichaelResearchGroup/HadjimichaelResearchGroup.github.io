@@ -1,3 +1,2 @@
-# Onboarding
 ```{tableofcontents}
 ```
