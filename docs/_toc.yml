@@ -1,37 +1,39 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
 format: jb-book
 root: intro.md
+
 parts:
   - caption: Onboarding
     chapters:
       - file: Onboarding/_index.md
-        sections : 
+        sections:
           - file: Onboarding/LabOnboarding.md
           - file: Onboarding/LiteratureOnboarding.md
           - file: Onboarding/SoftwareOnboarding.md
           - file: Onboarding/SalaryTransparency.md
+
   - caption: Training
-    hapters:
+    chapters:
       - file: Training/_index.md
-        sections : 
+        sections:
           - file: Training/GettingStartedWithROARCollab.md
           - file: Training/LaTeXandOverleaf.md
           - file: Training/Parallelization.md
           - file: Training/SubmittingJobs.md
           - file: Training/GitAndGithub.md
+
   - caption: New Member Resources
-    hapters:
+    chapters:
       - file: NewMemberResources/_index.md
-        sections : 
+        sections:
           - file: NewMemberResources/ApplyingForDepartmentFunds.md
           - file: NewMemberResources/BudgetingReimbursementExpensing.md
           - file: NewMemberResources/Courses.md
           - file: NewMemberResources/Housing.md
           - file: NewMemberResources/PoliciesProceduresForms.md
           - file: NewMemberResources/Who_to_contact_for.md
+
   - caption: Contributing To This Manual
-    hapters:
+    chapters:
       - file: Contributing/_index.md
-        sections : 
+        sections:
           - file: Contributing/Instructions.md
