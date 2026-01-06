@@ -1,30 +1,37 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro.md
 parts:
-- chapters:
-  - file: Onboarding/Onboarding.md
-    sections:
-    - file: Onboarding/LabOnboarding.md
-    - file: Onboarding/LiteratureOnboarding.md
-    - file: Onboarding/SoftwareOnboarding.md
-    - file: Onboarding/SalaryTransparency.md
-  - file: Training/Training.md
-    sections:
-    - file: Training/GettingStartedWithROARCollab.md
-    - file: Training/LaTeXandOverleaf.md
-    - file: Training/Parallelization.md
-    - file: Training/SubmittingJobs.md
-  - file: NewMemberResources/NewMemberResources.md
-    sections:
-    - file: NewMemberResources/ApplyingForDepartmentFunds.md
-    - file: NewMemberResources/BudgetingReimbursementExpensing.md
-    - file: NewMemberResources/Courses.md
-    - file: NewMemberResources/Housing.md
-    - file: NewMemberResources/PoliciesProceduresForms.md
-    - file: NewMemberResources/Who_to_contact_for.md    
-  - file: Contributing/Contributing.md
-    sections:
-    - file: Contributing/Instructions.md
+  - caption: Onboarding
+    chapters:
+      - file: Onboarding/Onboarding.md
+        sections:
+          - file: Onboarding/LabOnboarding.md
+          - file: Onboarding/LiteratureOnboarding.md
+          - file: Onboarding/SoftwareOnboarding.md
+          - file: Onboarding/SalaryTransparency.md
+  - caption: Training
+    chapters:
+      - file: Training/Training.md
+        sections:
+          - file: Training/GettingStartedWithROARCollab.md
+          - file: Training/LaTeXandOverleaf.md
+          - file: Training/Parallelization.md
+          - file: Training/SubmittingJobs.md
+          - file: Training/GitAndGithub.md
+  - caption: New Member Resources
+    chapters:
+      - file: NewMemberResources/NewMemberResources.md
+        sections:
+          - file: NewMemberResources/ApplyingForDepartmentFunds.md
+          - file: NewMemberResources/BudgetingReimbursementExpensing.md
+          - file: NewMemberResources/Courses.md
+          - file: NewMemberResources/Housing.md
+          - file: NewMemberResources/PoliciesProceduresForms.md
+          - file: NewMemberResources/Who_to_contact_for.md
+  - caption: Contributing
+    chapters:
+      - file: Contributing/Contributing.md
+        sections:
+          - file: Contributing/Instructions.md

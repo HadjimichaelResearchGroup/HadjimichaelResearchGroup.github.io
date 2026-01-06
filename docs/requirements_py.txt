@@ -1,4 +1,14 @@
-jupyter-book
+jupyter-book==1.0.3
 matplotlib
 numpy
 pandas
+seaborn
+ghp-import
+scipy
+basemap
+basemap-data-hires
+rasterio
+geopandas
+myst-parser
+PyYAML
+nbformat

@@ -1,6 +1,6 @@
-## New Member Resources
+# New Member Resources
 
-![](Deike.jpg)
+![](../Images/Deike.jpg)
 
 ```{tableofcontents}
 ```

@@ -1,6 +1,7 @@
 name: deploy-book
 
 on:
+  # Trigger the deploy on push to main branch
   push:
     branches:
     - main
@@ -9,24 +10,47 @@ on:
     # Format: minute hour day-of-month month day-of-week
     - cron: '0 0 1 * *'
 
+permissions:
+  contents: write # needed for peaceiris GH pages deploy
+
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    # Checkout the repo
+    - uses: actions/checkout@v5
     
-    - name: Set up Python 3.11
+    # Install python
+    - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.11'
+        python-version: 3.11
     
+    # Install dependencies
     - name: Install dependencies
-      run: pip install -r docs/requirements_py.txt
+      run: |
+          python -m pip install --upgrade pip
+          pip install jupyter-book myst-parser pyyaml nbformat
+          pip install -r docs/requirements_py.txt
+
+    # - name: Debug - List all files and validate YAML
+    #   run: |
+    #     echo "=== All markdown files ==="
+    #     find docs/ -name "*.md" -type f
+    #     echo "=== Validate _toc.yml ==="
+    #     python -c "import yaml; print(yaml.safe_load(open('docs/_toc.yml')))"
+    #     echo "=== Validate _config.yml ==="
+    #     python -c "import yaml; print(yaml.safe_load(open('docs/_config.yml')))"
+    #     echo "=== Check for directories being read as files ==="
+    #     ls -la docs/
     
+    # Build the book
     - name: Build the book
-      run: jupyter-book build docs/
+      run: jupyter-book build --all docs/
     
+    # Deploy to GH-pages only if the build succeeds
     - name: Deploy to GitHub Pages
+      if: success()
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}

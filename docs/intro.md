@@ -1,6 +1,6 @@
 # Hadjimichael Research Group Lab Manual
 
-![Hadjimichael Research Group](Images/HadjmichaelGroup_Fall2025.jpg)
+![Hadjimichael Research Group](../Images/HadjmichaelGroup_Fall2025.jpg)
 
 This platform aims to support newcomers and collaborators in the research methods and tools used by the Hadjimichael Research Group.
 

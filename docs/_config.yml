@@ -3,11 +3,11 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Hadjimichael Group Lab Manual
-author: The Hadjimichael Research Group at PennState
-copyright: 2024  # Copyright year to be placed in the footer
+author: The Hadjimichael Research Group at Penn State
+#copyright: 2024  # Copyright year to be placed in the footer
 logo: Images/Logo.png
-theme: jekyll-theme-midnight
-markdown: GFM
+#theme: jekyll-theme-midnight
+#markdown: GFM
 
 #######################################################################################
 # Execution settings

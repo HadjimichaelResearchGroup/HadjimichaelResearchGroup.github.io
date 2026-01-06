@@ -1,4 +1,4 @@
-## Contributing to this lab manual
+# Contributing to this lab manual
 
 ```{tableofcontents}
 ```

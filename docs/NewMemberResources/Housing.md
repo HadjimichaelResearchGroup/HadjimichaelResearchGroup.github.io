@@ -8,7 +8,7 @@ State College is a sweet town with lots to offer! There are great options for [h
 
 ### Neighborhoods Overview
 
-![](Map.jpg)
+![](../Images/Map.jpg)
 
 State College has a large undergrad population, so much of the town is devoted to serving them. As such, the area immediately closest to downtown will be convenient but may be noisy from undergrads/frat parties. The further you are from downtown, the quieter it will be. However, lots of the fun activities and bars are located downtown, so living in walking distance to those locations (and the Geology building) is a plus. Living on the south-east side of campus (downtown side) in the outer parts of the yellow shaded area or the inside of the pink shaded area are quiet and still accessible.
 
