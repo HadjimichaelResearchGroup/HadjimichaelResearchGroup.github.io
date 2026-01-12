@@ -67,7 +67,7 @@ All members of the lab are expected to pitch in to support the function of our l
 -   **Equipment manager: Abhijeet**
     -   The equipment manager tracks what equipment each lab member has and what equipment is available for use.
 -   **P-Card Organizer: Abhijeet**
-    -   The P-Card organizer keeps track of the use of the P-Card so that group bookkeeping is centralized and consistent.
+    -   The P-Card organizer keeps track of the use of the P-Card so that group book-keeping is centralized and consistent.
 -   **Zoomer: Abhijeet**
     -   The Zoom setup coordinator is responsible for coming to the lab meeting room early to set up any necessary Zoom equipment. They also send out When to Meet polls to determine group meeting times.
 

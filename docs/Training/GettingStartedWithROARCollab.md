@@ -6,7 +6,9 @@ Generally, references to a **cluster** are shorthand for an organization's **hig
 
 ### Penn State's ROAR Collab
 
-Penn State has had several clusters over the past decade, with the most recent iteration being [**ROAR Collab**](https://www.icds.psu.edu/roar-collab/). ROAR Collab is the cyberinfrastructure of choice for this lab group. Some features of ROAR Collab include: \* [*Software*](https://www.icds.psu.edu/computing-services/software/): There are over 240 pre-installed applications updated at regular intervals (and more installed ever semester). Important modules for this group include `python`/`anaconda`, `parallel`, and the batch scheduler `SLURM`.
+Penn State has had several clusters over the past decade, with the most recent iteration being [**ROAR Collab**](https://www.icds.psu.edu/roar-collab/). ROAR Collab is the cyberinfrastructure of choice for this lab group. Some features of ROAR Collab include:
+
+-   [*Software*](https://www.icds.psu.edu/computing-services/software/): There are over 240 pre-installed applications updated at regular intervals (and more installed ever semester). Important modules for this group include `python`/`anaconda`, `parallel`, and the batch scheduler `SLURM`.
 
 -   Storage: There are 144 GB of daily backed-up personal storage, plus *no limit* scratch storage (purged after 30 days). When you get access to the Hadjimichael allocation, you'll have access to additional group storage as well. You can view and interact with your files and outputs easily through the web-based [OnDemand Portal](https://rcportal.hpc.psu.edu/pun/sys/dashboard).
 
@@ -14,7 +16,7 @@ Penn State has had several clusters over the past decade, with the most recent i
 
 -   *Free To Use*: All PSU students can use ROAR Collab and its "Open" allocation with the creation of an account. You do **not** need to be put on someone's allocation to take advantage of these resources.
 
-    ### Setting Up an Account
+### Setting Up an Account
 
 You should [click this link](https://www.icds.psu.edu/roar-collab-user-guide/) to get started setting up an account. This link is also a helpful resource (through the Table of Contents) for some of the rudimentary syntax for running jobs, getting details about the Open Queue, file storage information, and available software. If you don't know it, our advisor's Penn State ID (in the `abc1234` format) can be found [here at the Penn State Directory.](https://directory.psu.edu/)
 

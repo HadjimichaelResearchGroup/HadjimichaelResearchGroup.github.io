@@ -10,7 +10,7 @@ Git is a tool which helps track different versions of projects while they are be
 
 ### A Little More Detail
 
-Within Github, files are collected and organized by **repositories**. Git had a 'local repository', which lives on each contributors' individual computer. Once edits are made locally, they are **comitted** to the remote repository. The remote repository is hosten on a server and contains the most updated versions of the code, as well as the history of changes made and much more. This functionality can all be accessed through your development environment (ie: pycharm, visual studio), or through the **command line**. The command line is a way to interact with your computer via typed 'commands'. The tutorial provides more information on this tool.
+Within Github, files are collected and organized by **repositories**. Git had a 'local repository', which lives on each contributor's individual computer. Once edits are made locally, they are **comitted** to the remote repository. The remote repository is hosted on a server and contains the most updated versions of the code, as well as the history of changes made and much more. This functionality can all be accessed through your development environment (ie: pycharm, visual studio), or through the **command line**. The command line is a way to interact with your computer via typed 'commands'. The tutorial provides more information on this tool.
 
 ### *Gitting* Started
 
