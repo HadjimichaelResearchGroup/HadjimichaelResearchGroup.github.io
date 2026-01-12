@@ -12,15 +12,15 @@ State College is a sweet town with lots to offer! There are great options for [h
 
 State College has a large undergrad population, so much of the town is devoted to serving them. As such, the area immediately closest to downtown will be convenient but may be noisy from undergrads/frat parties. The further you are from downtown, the quieter it will be. However, lots of the fun activities and bars are located downtown, so living in walking distance to those locations (and the Geology building) is a plus. Living on the south-east side of campus (downtown side) in the outer parts of the yellow shaded area or the inside of the pink shaded area are quiet and still accessible.
 
-Tofttrees, in bright green on the map, is a good option. It is significantly cheaper than living by downtown, but it is at least a 10-minute drive from campus (or 25-minute bike ride), and you'll need to commute to the office and back home after a night out.
+Toftrees, in bright green on the map, is a good option. It is significantly cheaper than living by downtown, but it is at least a 10-minute drive from campus (or 25-minute bike ride), and you'll need to commute to the office and back home after a night out.
 
 Some students live in Bellefonte because it's cheaper (though farther). A good option if you have a car and want to live in a quieter area.
 
-There are nice parks and outdoors spaces in every neighborhood. Consider checking out the [walnut spring park,](https://www.appoutdoors.com/blog/the-wilderness-of-walnut-springs-park/) [the arboretum,](https://arboretum.psu.edu) or golf course trails. See more [here.](https://www.crpr.org/sites/g/files/vyhlif2986/f/uploads/parks_bikeways_map.pdf)
+There are nice parks and outdoors spaces in every neighborhood. Consider checking out [Walnut Springs Park,](https://www.appoutdoors.com/blog/the-wilderness-of-walnut-springs-park/) [the Arboretum,](https://arboretum.psu.edu) or golf course trails. See more [here.](https://www.crpr.org/sites/g/files/vyhlif2986/f/uploads/parks_bikeways_map.pdf)
 
 ### Finding Housing
 
-Finding available housing on places like zillow, apartments.com, or just googling will come up with tons of results. You can sort by the criteria that match what you are looking for, and make selections based on what you see. Big downtown high rises will be more expensive, as will options close to campus. Further away (nothing is ever *that* far here) and independent rentals will be cheaper. Feel free to get in contact with current grad students to ask questions about your location, reasonable rent prices, or good rental companies. You can also try to find a house/apartment along the bus routes especially if you don't have a car.
+Finding available housing on places like Zillow, apartments.com, or just googling will come up with tons of results. You can sort by the criteria that match what you are looking for, and make selections based on what you see. Big downtown high rises will be more expensive, as will options close to campus. Further away (nothing is ever *that* far here) and independent rentals will be cheaper. Feel free to get in contact with current grad students to ask questions about your location, reasonable rent prices, or good rental companies. You can also try to find a house/apartment along the bus routes especially if you don't have a car.
 
 *A few cautionary words to the wise:* When renting, it's best to get a virtual or in-person tour in real time if possible (to make sure the property is real) If something seems like a scam, you can reach out to any current grad students in the Hadjimichael group to double-check! Also, before you sign a lease, hop on Google Maps and check if you will be neighbors with a frat house or if you'll have any good grocery stores nearby!
 
@@ -32,7 +32,7 @@ Also, there are lots of Facebook housing groups you can use to find roommates or
 
 ### Getting to Campus
 
-State College is a pretty bike friendly town. If you want to bike to campus, it may be helpful to see if housing you're looking at is near a dedicated (no cars) bike route. You can see bike paths [here](https://www.crpr.org/sites/g/files/vyhlif2986/f/uploads/parks_bikeways_map.pdf). I highly recommend [Freeze Thaw Cycles](https://freezethaw.com) for your bike repair and upkeep needs - they're awesome! Also, the [PSU Bike Den](https://transportation.psu.edu/bike-den) offers free maintenance clinics and workshops.
+State College is a pretty bike friendly town. If you want to bike to campus, it may be helpful to see if housing you're looking at is near a dedicated (no cars) bike route. You can see bike paths [here](https://www.crpr.org/sites/g/files/vyhlif2986/f/uploads/parks_bikeways_map.pdf). We highly recommend [Freeze Thaw Cycles](https://freezethaw.com) for your bike repair and upkeep needs - they're awesome! Also, the [PSU Bike Den](https://transportation.psu.edu/bike-den) offers free maintenance clinics and workshops.
 
 The bus is another good option. As mentioned above, try to find a house/apartment along the bus routes especially if you don't have a car. Bus passes for grad students who live a certain distance from campus are \$21/month [here](https://transportation.psu.edu/ridepass-graduate-students). Some apartments will include the bus pass in your rent. The bus doesn't go everywhere, and *only the red, white, and blue loops are included in the student pass*. Check out the map [here.](https://catabus.com/system-map/)
 
