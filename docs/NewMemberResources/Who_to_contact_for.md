@@ -115,6 +115,8 @@ Need help with your PSU technology or downloading software on your PSU computer?
 -   Ethan Heidtman
     -   efh5433\@psu.edu
     -   Office: 434 Deike
+-   Huilin Luo
+    -   hxl5625\@psu.edu
 -   Tsunami Sharmba
     -   tbs5454\@psu.edu
     -   Office: 434 Deike
